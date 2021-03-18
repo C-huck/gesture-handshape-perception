@@ -2,6 +2,8 @@
 
 Project explores what range(s) of interpretations silent gestures are perceived to have. 
 
+![Experimental design](images/experimental_design_meaning.png)
+
 # Method
 
 1. Produced vignettes of 69 unique events (e.g., *break, walk, hammer*).
