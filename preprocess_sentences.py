@@ -16,6 +16,10 @@ def spellCheck(sentence):
 
 
 def check_for_stop_verbs(inList):
+    """
+    List of common non-target/irrelevant verbs to remove; 
+    E.g., in "The man is pretending that he is singing", "pretend" is not relevant to the event
+    """
     compList = ['need','want','should','can','signal','say','advise','watch',
                 'show','point','instruct','pretend','try','attempt','plan',
                 'begin','start','stop','continue','decide','fail','direct',
@@ -26,6 +30,10 @@ def check_for_stop_verbs(inList):
     return inList
 
 def find_verb_WN(sentence):
+    """"
+    A second opinion verb finder using WordNet, in case the main function (find_verbs) 
+    fails to identify a verb in a sentence
+    """
     lemmatizer = WordNetLemmatizer() 
     verbs = []
     try:
@@ -54,9 +62,9 @@ def find_verbs(sentence):
                 out.append(token.lemma_)
             elif token.pos_ == 'VERB' and not token.dep_ in ['amod','advcl','acl','pcomp']:
                 out.append(token.lemma_)
-        #if len(out) == len_out:
-        #    out.append(find_verb_WN(sentence)[0])
-        #    len_out = len(out)
+        if len(out) == len_out:
+            out.append(find_verb_WN(sentence)[0])
+            len_out = len(out)
     out = check_for_stop_verbs(out)
     return out
 
