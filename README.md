@@ -10,7 +10,8 @@ Precis:
     - the encyclopedic content of silent gesture is not as ambiguous as previously assumed
   
 # Files
- - `data.csv`: Raw data file containing the title of the gesture video, the inherent transitivity of the gesture video ('1' = transitive), the subject code for the gesturer, the subject code for the AMT respondent, a sentence describing the gesture, the main verb of the sentence, and the transitivity of the sentence
+ - `data.csv`: Raw data file containing the title of the gesture video, the inherent transitivity of the gesture video ('1' = transitive), the subject code for the gesturer, the subject code for the AMT respondent, a sentence describing the gesture, the main verb(s) of the sentence, and the transitivity of the sentence
+ - The main verb(s) of each response sentences were identified using `preprocess_data.py` with some manual cleanup. Transitivity was coded by hand. 
  - `data_processed.csv`: Summary data, including the item, its mean transitivity score, SDI/H-index, handshape characteristics, etc.
  
 # To do
