@@ -11,6 +11,7 @@ import string
 
 stemmer = stem.porter.PorterStemmer()
 remove_punctuation_map = dict((ord(char), None) for char in string.punctuation)
+vectorizer = TfidfVectorizer(tokenizer=normalize, stop_words='english')
 
 def stem_tokens(tokens):
     return [stemmer.stem(item) for item in tokens]
@@ -18,7 +19,12 @@ def stem_tokens(tokens):
 def normalize(text):
     return stem_tokens(word_tokenize(text.lower().translate(remove_punctuation_map)))
 
-vectorizer = TfidfVectorizer(tokenizer=normalize, stop_words='english')
+def cosine_sim(text1, text2):
+    tfidf = vectorizer.fit_transform([text1, text2])
+    return ((tfidf * tfidf.T).A)[0,1]
+
+def get_mean_cosine_sim(sentence_list,iters):
+    return np.nanmean([cosine_sim(sentence_list[x[0]],sentence_list[x[1]]) for x in iters])
 
 def load_embeddings(fileIn="glove.840B.300d.txt"):
     """
@@ -100,13 +106,6 @@ def sdi(data):
     sdi = -sum(p(n, N) for n in data.values() if n != 0)
     return sdi
 
-def cosine_sim(text1, text2):
-    tfidf = vectorizer.fit_transform([text1, text2])
-    return ((tfidf * tfidf.T).A)[0,1]
-
-def get_mean_cosine_sim(sentence_list,iters):
-    return np.nanmean([cosine_sim(sentence_list[x[0]],sentence_list[x[1]]) for x in iters])
-
 def get_penalized_distance_scores(w1,w2):
     a = [(y.path_similarity(x),i,j) for (i,x) in enumerate(w1) for (j,y) in enumerate(w2) if len(y.lowest_common_hypernyms(x)) > 0]
     if len(a) > 0:
@@ -151,17 +150,19 @@ def get_all_scores(df):
 #Load embeddings
 embeddings_dict = load_embeddings("C:/Users/Jack/ud120-projects/GloVe-master/glove.6B/glove.6B.50d.txt")
 
-
+#Load sentences generated from action videos
 df_action = pd.read_csv("../action_label.csv",header=0,converters={'verb': eval}).dropna()
 df_action['verb'] = [','.join(x) for x in df_action['verb']]
+
+#Get per-item mean transitivity, H-index (sdi), path similarity, embedding distance, and cosine similarity scores
 df_scores_action = pd.DataFrame(data=get_all_scores(df_action),columns=["item","transitivity",'sdi','ps_score','embedding_score','cosine_sim_score'])
 
+#Load sentences generated from gesture videos
 columns = ["Input.field_1","Answer.sentence","verb","transitivity","RequesterFeedback","DELETE","WorkerId"]
-df_csv = pd.read_csv("data_final.csv",header=0,usecols=columns)
-df_csv = df_csv[df_csv['RequesterFeedback'].isna()].drop(columns=['RequesterFeedback'])
-df_csv = df_csv[df_csv['DELETE']!=1].drop(columns=['DELETE'])
-#df_csv['gt_trans'] = [1 if x[-7] == 'R' else 0 for x in df_csv['Input.field_1']]
-#df_csv['transitivity_bin'] = [1 if x >= 0.5 else 0 for x in df_csv['transitivity']]
-df_csv = df_csv.rename(columns={'Input.field_1':'item','Answer.sentence':'sentence'}).dropna()
+df_gesture = pd.read_csv("data_final.csv",header=0,usecols=columns)
+df_gesture = df_gesture[df_gesture['RequesterFeedback'].isna()].drop(columns=['RequesterFeedback'])
+df_gesture = df_gesture[df_gesture['DELETE']!=1].drop(columns=['DELETE'])
+df_gesture = df_gesture.rename(columns={'Input.field_1':'item','Answer.sentence':'sentence'}).dropna()
 
-df_scores = pd.DataFrame(data=get_all_scores(df_csv),columns=["item","transitivity",'sdi','ps_score','cosine_sim_score'])
+#Get per-item mean transitivity, H-index (sdi), path similarity, embedding distance, and cosine similarity scores
+df_scores_gesture = pd.DataFrame(data=get_all_scores(df_gesture),columns=["item","transitivity",'sdi','ps_score','embedding_score','cosine_sim_score'])
