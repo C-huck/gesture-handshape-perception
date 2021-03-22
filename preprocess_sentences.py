@@ -20,6 +20,9 @@ def spellCheck(sentence):
 
 
 def check_for_stop_verbs(inList):
+    """
+    Removes non-target verbs
+    """
     compList = ['need','want','should','can','signal','say','advise','watch',
                 'show','point','instruct','pretend','try','attempt','plan',
                 'begin','start','stop','continue','decide','fail','direct',
