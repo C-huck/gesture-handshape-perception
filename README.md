@@ -1,9 +1,9 @@
 # Measuring encyclopedic and grammatical content in silent gesture
 
 Precis:
-  - Do participants with no sign language experience can detect whether silent gestures represent transitive or intransitive events? 
-  - How accurate as non-signing participants at guessing the encyclopedic content of silent gestures? See "/gesture-meaning-project"
-  - Conducted a silent-gesture labeling experiment; 20 sentences for each of 413 videos of transitive/intransitive event denoting silent gestures
+  - Q1: Can participants with no sign language experience detect whether silent gestures represent transitive or intransitive events? See "/gesture-transitivity-project"
+  - Q2: How accurate are non-signing participants at guessing the encyclopedic content of silent gestures? See "/gesture-meaning-project"
+  - Conducted (1) live action vignette and (2) silent-gesture labeling experiments; 20-30 sentences collected for 69 live action events depicted by 6 hearing non-signers (=414 silent gestures) 
   - Initial analysis suggests:
     - transitivity is transparent: non-signers are accurate at guessing the transitivity of silent gestures
     - non-signer transitivity judgments can be predicted by the visual characteristics of the silent gestures
@@ -15,4 +15,4 @@ Precis:
  
 # To do
 - [ ] Uplouad .py file that generates `data_processed.csv`
-- [ ] Upload main analysis script
+- [ ] Upload main analysis scripts
