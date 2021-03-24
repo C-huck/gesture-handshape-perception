@@ -20,16 +20,16 @@ Précis:
     - Collected 20-30 sentences describing (a) 69 live action events and (b) the intended meaning of the gestures 
   - **Analysis:** 
     -  Q1:
-      - Sentences were hand-annotated for transitivity. A gesture video was considered 'transitive' if it received >12 transitive labels, otherwise 'intransitive'. 
-      - Use a linear support vector machine to predict 'transitive' or 'intransitive' class of gestures based on its visual/manual/phonetic features (6-fold l-o-o paradigm)
+        -  Sentences were hand-annotated for transitivity. A gesture video was considered 'transitive' if it received >12 transitive labels, otherwise 'intransitive'. 
+        -  Use a linear support vector machine to predict 'transitive' or 'intransitive' class of gestures based on its visual/manual/phonetic features (6-fold l-o-o paradigm)
     - Q2: 
       - For each event, we computed the mean pair-wise semantic distance (SD) between verbs elicited from action videos (action-verbs), verbs elicited from gesture videos (gesture-verbs), and randomly generate verbs (random-verbs). 
       - Semantic distance was defined as the Euclidean distance between two words 300d word-representation vectors, obtained from GloVe.
       - We predicted SD(action-verbs,gesture-verbs) >> SD(action-verbs,random-verbs)
   - **Results**:
-    - transitivity is transparent: non-signers are 86% accurate at guessing the transitivity of silent gestures
-    - non-signer transitivity judgments can be predicted by the visual characteristics of the silent gestures
-    - the encyclopedic content of silent gesture is not as ambiguous as previously assumed
+    - Q1: transitivity is transparent: non-signers are 86% accurate at guessing the transitivity of silent gestures
+    - Q1: non-signer transitivity judgments can be predicted by the visual characteristics of the silent gestures
+    - Q2: verbs generated from action videos are significantly more related to verbs generated from gesture videos than to random verbs; the encyclopedic content of silent gesture is not as ambiguous as previously assumed
 
 # Files
  - `generate_summary_data.py`: For each gesture or action vignette, computes the proportion of transitive sentences used to describe it, and three measures of semantic similarity: the diversity of verbs used (via Shannon's Diversity Index/H-Index), the Euclidean Distance of each verb's 300d representation vectors, and the mean cosine similarity of the sentences used, etc. 
@@ -42,7 +42,3 @@ Précis:
 For Q1, see [abstract](https://c-huck.github.io/pdfs/CUNY2021.pdf)
 
 For Q2, see [abstract](https://c-huck.github.io/pdfs/Mesuring_encyclopedic_content_in_silent_gesture.pdf)
-
-# To do
-- [ ] Upload .py file that generates `data_processed.csv`
-- [ ] Upload main analysis scripts
