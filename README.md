@@ -32,11 +32,11 @@ Précis:
     - Q2: verbs generated from action videos are significantly more related to verbs generated from gesture videos than to random verbs; the encyclopedic content of silent gesture is not as ambiguous as previously assumed
 
 # Files
- - `generate_summary_data.py`: For each gesture or action vignette, computes the proportion of transitive sentences used to describe it, and three measures of semantic similarity: the diversity of verbs used (via Shannon's Diversity Index/H-Index), the Euclidean Distance of each verb's 300d representation vectors, and the mean cosine similarity of the sentences used, etc. 
+ - `generate_summary_data.py`: Outputs summary data for live action videos and gesture videos.  For each gesture or action vignette, computes the proportion of transitive sentences used to describe it, and three measures of semantic similarity: the diversity of verbs used (via Shannon's Diversity Index/H-Index), the Euclidean Distance of each verb's 300d representation vectors, and the mean cosine similarity of the sentences used, etc. 
  - `preprocess_sentences.py`: Takes `data.csv` as input and (a) annonymizes MTurk WorkerIds, (b) removes errant responses/rejected work, (c) renames filenames to human-readable formats, (d) and automatically extracts the verb(s) from each response sentence.
  - `video_rename.py`: A file containing the key translating between obscurred and human-readable file names. File names were obscurred in experiment so Turkers could not use the file name (e.g., *balloon-deflate-np-IN.mp4*) to guess the meaning of the gesture.
  - `data.csv`: Input to `preprocess_sentences.py`. Raw data file containing the title of the gesture video, the inherent transitivity of the gesture video ('1' = transitive), the subject code for the gesturer, the subject code for the AMT respondent, a sentence describing the gesture, the main verb(s) of the sentence, and the transitivity of the sentence The main verb(s) of each response sentences were identified using `preprocess_data.py` with some manual cleanup. Transitivity was coded by hand. 
- - `data_processed.csv`: Output of `generate_summary_data.py`. Summary data. Includes: the item, its mean transitivity score, SDI/H-index, handshape characteristics, etc.
+ - `gesture_summary_data.csv` and `action_summary_data.csv`: Output of `generate_summary_data.py`. Summary data for sentences elicited from gesture videos and live action videos. Includes: the item, its mean transitivity score, SDI/H-index, etc. Gesture summary also contains phonetic characteristics of gestures.
 
 # Output
 For Q1, see [abstract](https://c-huck.github.io/pdfs/CUNY2021.pdf)
