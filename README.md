@@ -9,16 +9,16 @@ Tools used:
 - Scikit-learn
 
 **Background:**
-    - Non-signers are good at resolving grammatical information about signs, like whether the events they denote have natural semantic endpoints: e.g., *The flower wilted* has an endpoint (*The flower is completely wilted*), but *The flower grew* does not (*?The flower completely grew*). But, non-signers are bad at guessing the encyclopedic content (=meaning) of signs: e.g., Non-signers usually can't guess that the sign DECIDE means *to decide* (but they know that the sign has a natural semantic endpoint). 
-    - Some work has shown that non-signers are better at guessing the meaning of gestures that other non-signers produce, but these studies adopt an artificial measure of accuracy
-    - Little work has examined how/whether non-signers perceive arguments or argument structure in silent gesture
-    - **Q1:** (a) Can participants with no sign language experience detect whether silent gestures represent transitive (*I bounced a ball*) or intransitive (*The ball bounced*) events? (b) Do visual characteristics of the gestures guide non-signer's perception of transitivity?; See `/gesture-transitivity-project`
-    - **Q2:** How accurate are non-signing participants at guessing the encyclopedic content of silent gestures? See `/gesture-meaning-project`
+- Non-signers are good at resolving grammatical information about signs, like whether the events they denote have natural semantic endpoints: e.g., *The flower wilted* has an endpoint (*The flower is completely wilted*), but *The flower grew* does not (*?The flower completely grew*). But, non-signers are bad at guessing the encyclopedic content (=meaning) of signs: e.g., Non-signers usually can't guess that the sign DECIDE means *to decide* (but they know that the sign has a natural semantic endpoint). 
+- Some work has shown that non-signers are better at guessing the meaning of gestures that other non-signers produce, but these studies adopt an artificial measure of accuracy
+- Little work has examined how/whether non-signers perceive arguments or argument structure in silent gesture
+- **Q1:** (a) Can participants with no sign language experience detect whether silent gestures represent transitive (*I bounced a ball*) or intransitive (*The ball bounced*) events? (b) Do visual characteristics of the gestures guide non-signer's perception of transitivity?; See `/gesture-transitivity-project`
+- **Q2:** How accurate are non-signing participants at guessing the encyclopedic content of silent gestures? See `/gesture-meaning-project`
 
 <!-- blank line -->
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="video/DECIDE_1.mp4" type="video/mp4">
+  <video controls="true" allowfullscreen="true">
+    <source src="../video/DECIDE_1.mp4" type="video/mp4">
   </video>
 </figure>
 <!-- blank line -->
