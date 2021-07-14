@@ -20,7 +20,7 @@ Tools used:
   <source src="https://c-huck.gitbuh.io/video/DECIDE_1.mp4" type="video/mp4">
 </video>
 
-![](https://c-huck.gitbuh.io/video/DECIDE_1.mp4)
+![Figure from https://doi.org/10.1073/pnas.1423080112](../images/F2large.jpg)
 
 **Method:** 
 - Collected 414 silent gestures from 6 non-signers depicting 69 events; Annotated these gestures for visual and manual (phonetic) characteristics
