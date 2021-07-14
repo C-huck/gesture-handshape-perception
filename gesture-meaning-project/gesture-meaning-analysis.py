@@ -40,7 +40,7 @@ def load_embeddings(filename):
                 embeddings_dict[word] = vector
         return embeddings_dict
 
-embeddings_dict = load_embeddings("C:/Users/Jack/ud120-projects/GloVe-master/glove.6B/glove.6B.300d.txt")
+embeddings_dict = load_embeddings("C../GloVe-master/glove.6B/glove.6B.300d.txt")
 
 ##Import data
 
