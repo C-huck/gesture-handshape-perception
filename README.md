@@ -1,6 +1,6 @@
 # Measuring encyclopedic and grammatical content in silent gesture
 
-This project explores different types of information that are available in silent gesutre (or not) and contributes to our understanding of how meaning is negotiated in novel communication settings (e.g., newly deafened or language-impaired individuals, emerging sign languages).
+This project investigates different types of information that are available in silent gesutre (or not) and contributes to our understanding of how meaning is negotiated in novel communication settings (e.g., newly deafened or language-impaired individuals, emerging sign languages).
 
 Tools used:
 - SpaCy
@@ -9,12 +9,17 @@ Tools used:
 - Scikit-learn
 
 **Background:**
-- Non-signers are good at resolving grammatical information about signs, like whether the events they denote have natural semantic endpoints:
-  -  e.g., *The flower wilted* has an endpoint (*The flower is completely wilted*), but *The flower grew* does not (*?The flower completely grew*). 
--  But, non-signers are bad at guessing the encyclopedic content (=meaning) of signs: e.g., Non-signers usually can't guess that the sign DECIDE (Fig 1, left) means *to decide* or THINK (Fig 1, right) mean *to think*, but they know that the former has a natural semantic endpoint while the latter does not
-- Some work has shown that non-signers are better at guessing the meaning of gestures that other non-signers produce, but these studies adopt an artificial measure of accuracy
-- Little work has examined how/whether non-signers perceive arguments or argument structure in silent gesture
-- **Q1:** (a) Can participants with no sign language experience detect whether silent gestures represent transitive (*I bounced a ball*) or intransitive (*The ball bounced*) events? (b) Do visual characteristics of the gestures guide non-signer's perception of transitivity?; See `/gesture-transitivity-project`
+- People unfamiliar with a sign language, aka non-signers, are good at resolving grammatical information about signs, like whether the events they denote have natural semantic endpoints:
+  -  This phenomenon in language is called *telicity*. e.g., *The flower wilted* has an endpoint/is telic (*The flower is completely wilted*), but *The flower grew* does not/is atelic (*?The flower completely grew*). 
+-  But, non-signers are bad at guessing the encyclopedic content (=meaning) of signs
+  -   e.g., Non-signers usually can't guess that the sign DECIDE (Fig 1, left) means *to decide* or THINK (Fig 1, right) mean *to think*, but they know that the former has a natural semantic endpoint while the latter does not
+- This project focuses on how meaning and *argument structure* are conveyed in silent gesture, and how they are perceived 
+  - *argument structure* refers to how many nouns a verb takes. If a verb takes only one noun, it's intransitive (*The ball bounced*). If it takes two, it's transitive (*I bounced a ball*) 
+- Previous work on argument structure in silent gesture has demonstrated that non-signers manipulate the shape of their hands to distinguish between transitive and intransitive verbs
+  - These studies do not generalize, as they looked at only a few verbs 
+- Previous work has shown that non-signers are better at guessing the meaning of gestures that other non-signers produce
+  - These studies adopt a strict definition of accuracy, however, such that if the gesture means *to hammer* and a non-signer thinks it means *to pound*, the guess was marked as incorrect.
+- **Q1:** (a) Can participants with no sign language experience detect whether silent gestures represent transitive or intransitive events? (b) Do visual characteristics of the gestures guide non-signer's perception of transitivity?; See `/gesture-transitivity-project`
 - **Q2:** How accurate are non-signing participants at guessing the encyclopedic content of silent gestures? See `/gesture-meaning-project`
 
 ![Figure from https://doi.org/10.1073/pnas.1423080112](https://c-huck.github.io/images/F2large.jpg)
