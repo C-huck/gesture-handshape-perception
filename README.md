@@ -12,7 +12,7 @@ Tools used:
 - People unfamiliar with a sign language, aka non-signers, are good at resolving grammatical information about signs, like whether the events they denote have natural semantic endpoints:
   -  This phenomenon in language is called *telicity*. e.g., *The flower wilted* has an endpoint/is telic (*The flower is completely wilted*), but *The flower grew* does not/is atelic (*?The flower completely grew*). 
 -  But, non-signers are bad at guessing the encyclopedic content (=meaning) of signs
-  -   e.g., Non-signers usually can't guess that the sign DECIDE (Fig 1, left) means *to decide* or THINK (Fig 1, right) mean *to think*, but they know that the former has a natural semantic endpoint while the latter does not
+  -  e.g., Non-signers usually can't guess that the sign DECIDE (Fig 1, left) means *to decide* or THINK (Fig 1, right) mean *to think*, but they know that the former has a natural semantic endpoint while the latter does not
 - This project focuses on how meaning and *argument structure* are conveyed in silent gesture, and how they are perceived 
   - *argument structure* refers to how many nouns a verb takes. If a verb takes only one noun, it's intransitive (*The ball bounced*). If it takes two, it's transitive (*I bounced a ball*) 
 - Previous work on argument structure in silent gesture has demonstrated that non-signers manipulate the shape of their hands to distinguish between transitive and intransitive verbs
@@ -23,7 +23,7 @@ Tools used:
 - **Q2:** How accurate are non-signing participants at guessing the encyclopedic content of silent gestures? See `/gesture-meaning-project`
 
 ![Figure from https://doi.org/10.1073/pnas.1423080112](https://c-huck.github.io/images/F2large.jpg)
-**Figure 1:** (Left) Verb DECIDE in American Sign Language; (right) Verb THINK-OVER in American Sign Language. Obtained from https://doi.org/10.1073/pnas.1423080112
+**Figure 1:** (Left) Verb DECIDE in American Sign Language; (right) Verb THINK-OVER in American Sign Language. Non-signers are not able to guess the meaning of the signs, but they can tell that DECIDE has a natural semantic endpoint, but THINK-OVER does not. Figure obtained from https://doi.org/10.1073/pnas.1423080112.
 
 **Method:** 
 - Collected 414 silent gestures from 6 non-signers depicting 69 events; Annotated these gestures for visual and manual (phonetic) characteristics
