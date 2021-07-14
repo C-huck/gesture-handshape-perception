@@ -26,8 +26,16 @@ gestures represent.
 2. Elicited silent gestures of these vignettes from 6 non-signing participants (6 * 69 = 413 silent gestures, with one gesture discarded). 
 3. For each action vignette, elicited 30 one-sentence descriptions of the action on Amazon Mechanical Turk
 4. For each silent gesture, we elicited 20 one-sentence descriptions of what the gesture intended to convey on AMT 
-5. Extracted the verbs from the sentences (`get-verb.py`) and scored them according to their Semantic Distance (SD). 
-6. Semantic Distance was calculated as the average pairwise euclidean distance between each verb’s 300-dimensional word-representation vector within a set of verbs (e.g., the set of verbs elicited from a particular action vignette)
+5. Extracted and spell-checked the verbs from the sentences (`get-verb.py`)
+6. Computed Semantic Distance between verbs
+  - e.g., the verbs in the set {eat, dine, drink} are more similar to each other than {eat, think, drip}, which can be represented numerically (i.e., SD(eat, dine, drink) < SD(eat, think, drip)).
+7. Specifically, we obtained 300-dimensional word-representation vectors from GloVe (Pennington et al., 2014)
+  - vectors characterize words based on their co-occurrence with other words (within Common Crawl dataset).
+8. Semantic Distance was calculated as the average pairwise euclidean distance between each verb's vector
+9. Calculate semantically-matched baseline (chance): 
+  - compiled a list of 1,015 verbs from FrameNet whose superordinate categories entailed movement (e.g., self motion) or manipulation (e.g., cause impact)
+  - randomly drew 20 verbs from this list (with replacement)
+  - computed the mean semantic distance, repeating this process 413 times
 
 # Analysis
 
