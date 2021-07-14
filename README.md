@@ -18,13 +18,13 @@ Tools used:
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
-    <source src="../video/DECIDE_1.mp4" type="video/mp4">
+    <source src="https://c-huck.gitbuh.io/video/DECIDE_1.mp4" type="video/mp4">
   </video>
 </figure>
 <!-- blank line -->
 
 <video controls>
-  <source src="../video/DECIDE_1.mp4" type="video/mp4">
+  <source src="https://c-huck.gitbuh.io/video/DECIDE_1.mp4" type="video/mp4">
 </video>
 
 **Method:** 
