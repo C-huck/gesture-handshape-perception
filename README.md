@@ -20,7 +20,7 @@ Tools used:
   <source src="https://c-huck.gitbuh.io/video/DECIDE_1.mp4" type="video/mp4">
 </video>
 
-![Figure from https://doi.org/10.1073/pnas.1423080112](../images/F2large.jpg)
+![Figure from https://doi.org/10.1073/pnas.1423080112](https://c-huck.github.io/images/F2large.jpg)
 
 **Method:** 
 - Collected 414 silent gestures from 6 non-signers depicting 69 events; Annotated these gestures for visual and manual (phonetic) characteristics
@@ -48,6 +48,6 @@ Tools used:
  - `gesture_summary_data.csv` and `action_summary_data.csv`: Output of `generate_summary_data.py`. Summary data for sentences elicited from gesture videos and live action videos. Includes: the item, its mean transitivity score, SDI/H-index, etc. Gesture summary also contains phonetic characteristics of gestures.
 
 # Output
-For Q1, see [abstract](https://c-huck.github.io/pdfs/CUNY2021.pdf)
+For Q1, see [abstract 1](https://c-huck.github.io/pdfs/CUNY2021.pdf) - [abstract 2](https://c-huck.github.io/pdfs/AMLaP_silent_gesture_transitivity.pdf)
 
-For Q2, see [abstract](https://c-huck.github.io/pdfs/Mesuring_encyclopedic_content_in_silent_gesture.pdf)
+For Q2, see [abstract](https://c-huck.github.io/pdfs/AMLaP_silent_gesture_meaning.pdf)
