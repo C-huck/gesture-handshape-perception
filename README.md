@@ -20,6 +20,8 @@ Tools used:
   <source src="https://c-huck.gitbuh.io/video/DECIDE_1.mp4" type="video/mp4">
 </video>
 
+![](https://c-huck.gitbuh.io/video/DECIDE_1.mp4)
+
 **Method:** 
 - Collected 414 silent gestures from 6 non-signers depicting 69 events; Annotated these gestures for visual and manual (phonetic) characteristics
 - Collected 20-30 sentences describing (a) 69 live action events and (b) the intended meaning of the gestures 
