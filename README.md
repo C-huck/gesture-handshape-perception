@@ -9,18 +9,16 @@ Tools used:
 - Scikit-learn
 
 **Background:**
-- Non-signers are good at resolving grammatical information about signs, like whether the events they denote have natural semantic endpoints: e.g., *The flower wilted* has an endpoint (*The flower is completely wilted*), but *The flower grew* does not (*?The flower completely grew*). But, non-signers are bad at guessing the encyclopedic content (=meaning) of signs: e.g., Non-signers usually can't guess that the sign DECIDE means *to decide* (but they know that the sign has a natural semantic endpoint). 
+- Non-signers are good at resolving grammatical information about signs, like whether the events they denote have natural semantic endpoints:
+  -  e.g., *The flower wilted* has an endpoint (*The flower is completely wilted*), but *The flower grew* does not (*?The flower completely grew*). 
+-  But, non-signers are bad at guessing the encyclopedic content (=meaning) of signs: e.g., Non-signers usually can't guess that the sign DECIDE (Fig 1, left) means *to decide* or THINK (Fig 1, right) mean *to think*, but they know that the former has a natural semantic endpoint while the latter does not
 - Some work has shown that non-signers are better at guessing the meaning of gestures that other non-signers produce, but these studies adopt an artificial measure of accuracy
 - Little work has examined how/whether non-signers perceive arguments or argument structure in silent gesture
 - **Q1:** (a) Can participants with no sign language experience detect whether silent gestures represent transitive (*I bounced a ball*) or intransitive (*The ball bounced*) events? (b) Do visual characteristics of the gestures guide non-signer's perception of transitivity?; See `/gesture-transitivity-project`
 - **Q2:** How accurate are non-signing participants at guessing the encyclopedic content of silent gestures? See `/gesture-meaning-project`
 
-
-<video controls>
-  <source src="https://c-huck.gitbuh.io/video/DECIDE_1.mp4" type="video/mp4">
-</video>
-
 ![Figure from https://doi.org/10.1073/pnas.1423080112](https://c-huck.github.io/images/F2large.jpg)
+**Figure 1:** (Left) Verb DECIDE in American Sign Language; (right) Verb THINK-OVER in American Sign Language. Obtained from https://doi.org/10.1073/pnas.1423080112
 
 **Method:** 
 - Collected 414 silent gestures from 6 non-signers depicting 69 events; Annotated these gestures for visual and manual (phonetic) characteristics
