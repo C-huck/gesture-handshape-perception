@@ -1,6 +1,6 @@
 # Measuring encyclopedic and grammatical content in silent gesture
 
-This project explores different types of information are carried in silent gesutre (or not) and contributes to our understanding of how meaning is negotiated in novel communication settings (e.g., newly deafened or language-impaired individuals, emerging sign languages).
+This project explores different types of information that are available in silent gesutre (or not) and contributes to our understanding of how meaning is negotiated in novel communication settings (e.g., newly deafened or language-impaired individuals, emerging sign languages).
 
 Tools used:
 - SpaCy
@@ -11,6 +11,15 @@ Tools used:
 Précis:
   - **Background:**
     - Non-signers are good at resolving grammatical information about signs, like whether the events they denote have natural semantic endpoints: e.g., *The flower wilted* has an endpoint (*The flower is completely wilted*), but *The flower grew* does not (*?The flower completely grew*). But, non-signers are bad at guessing the encyclopedic content (=meaning) of signs: e.g., Non-signers usually can't guess that the sign DECIDE means *to decide* (but they know that the sign has a natural semantic endpoint). 
+    - <!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="path/to/video.mp4" type="video/mp4">
+    <source src="path/to/video.ogg" type="video/ogg">
+    <source src="path/to/video.webm" type="video/webm">
+  </video>
+</figure>
+<!-- blank line -->
     - Some work has shown that non-signers are better at guessing the meaning of gestures that other non-signers produce, but these studies adopt an artificial measure of accuracy
     - Little work has examined how/whether non-signers perceive arguments or argument structure in silent gesture
     - **Q1:** (a) Can participants with no sign language experience detect whether silent gestures represent transitive (*I bounced a ball*) or intransitive (*The ball bounced*) events? (b) Do visual characteristics of the gestures guide non-signer's perception of transitivity?; See `/gesture-transitivity-project`
