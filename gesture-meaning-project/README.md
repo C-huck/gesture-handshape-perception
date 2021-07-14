@@ -33,20 +33,31 @@ gestures represent.
     - vectors characterize words based on their co-occurrence with other words (within Common Crawl dataset).
 8. Semantic Distance was calculated as the average pairwise euclidean distance between each verb's vector
 9. Calculate semantically-matched baseline (chance): 
-  - compiled a list of 1,015 verbs from FrameNet whose superordinate categories entailed movement (e.g., self motion) or manipulation (e.g., cause impact)
-  - randomly drew 20 verbs from this list (with replacement)
-  - computed the mean semantic distance, repeating this process 413 times
+    - compiled a list of 1,015 verbs from FrameNet whose superordinate categories entailed movement (e.g., self motion) or manipulation (e.g., cause impact)
+    - randomly drew 20 verbs from this list (with replacement)
+    - computed the mean semantic distance, repeating this process 413 times
 
 # Analysis
 
-## Internal consistency 
+***A1: Inter-set (self) similarity:*** 
+1. Compute mean pair-wise SD for action verbs, SD(action verbs); 
+2. Compute mean pair-wise SD for gesture verbs, SD(gesture verbs); and
+3. *Baseline*: Compute mean pair-wise SD for randomly generated verbs, SD(random verbs)
 
-1. Compute mean pair-wise SD for (a) every set of action-verbs and (b) every set of gesture-verbs
-2. 
+***A2: Intra-set similarity:***
+1. Compute SD between action verbs and gesture verbs, SD(action verbs, gesture verbs)
+2. *Baseline*: Compute SD between action verbs and random verbs, SD(action verbs, random verbs)
 
-## Consistency between action-verbs and gesture-verbs
+# Results
 
-1. Compute mean pair-wise SD for action-verbs with gesture-verbs
+# Interpretation
+
+Despite the reported low interpretation accuracy of silent gesture, the present, more nuanced analysis
+suggests that non-signers consider only a certain range of interpretations for silent gestures,
+and that these interpretations are semantically similar to the actions the gestures represent.
+This approach strengthens the hypothesis that gestures are constructed and perceived by way
+of shared underlying event representations (van Nispen et al., ibid.) and that there are shared
+means of en/decoding these representations (Emmorey, 2014; Taub, 2001).
 
 # References
 
