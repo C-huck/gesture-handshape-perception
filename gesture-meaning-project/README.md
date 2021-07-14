@@ -28,9 +28,9 @@ gestures represent.
 4. For each silent gesture, we elicited 20 one-sentence descriptions of what the gesture intended to convey on AMT 
 5. Extracted and spell-checked the verbs from the sentences (`get-verb.py`)
 6. Computed Semantic Distance between verbs
-  - e.g., the verbs in the set {eat, dine, drink} are more similar to each other than {eat, think, drip}, which can be represented numerically (i.e., SD(eat, dine, drink) < SD(eat, think, drip)).
+    - e.g., the verbs in the set {eat, dine, drink} are more similar to each other than {eat, think, drip}, which can be represented numerically (i.e., SD(eat, dine, drink) < SD(eat, think, drip)).
 7. Specifically, we obtained 300-dimensional word-representation vectors from GloVe (Pennington et al., 2014)
-  - vectors characterize words based on their co-occurrence with other words (within Common Crawl dataset).
+    - vectors characterize words based on their co-occurrence with other words (within Common Crawl dataset).
 8. Semantic Distance was calculated as the average pairwise euclidean distance between each verb's vector
 9. Calculate semantically-matched baseline (chance): 
   - compiled a list of 1,015 verbs from FrameNet whose superordinate categories entailed movement (e.g., self motion) or manipulation (e.g., cause impact)
