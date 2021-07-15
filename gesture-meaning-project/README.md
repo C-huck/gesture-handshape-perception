@@ -2,8 +2,6 @@
 
 Project explores what range(s) of interpretations silent gestures are perceived to have. 
 
-![Experimental design](images/experimental_design_meaning.png)
-
 # Background
 
 Gesture contains a wealth of imagistic, yet vague information. Studies show that
@@ -24,8 +22,8 @@ gestures represent.
 
 1. Produced vignettes of 69 unique events (e.g., *break, walk, hammer*).
 2. Elicited silent gestures of these vignettes from 6 non-signing participants (6 * 69 = 413 silent gestures, with one gesture discarded). 
-3. For each action vignette, elicited 30 one-sentence descriptions of the action on Amazon Mechanical Turk
-4. For each silent gesture, we elicited 20 one-sentence descriptions of what the gesture intended to convey on AMT 
+3. For each action vignette, elicited 30 one-sentence descriptions of the action on Amazon Mechanical Turk (Fig. 1, left)
+4. For each silent gesture, we elicited 20 one-sentence descriptions of what the gesture intended to convey on AMT (Fig. 1, right)
 5. Extracted and spell-checked the verbs from the sentences (`get-verb.py`)
 6. Computed Semantic Distance between verbs
     - e.g., the verbs in the set {eat, dine, drink} are more similar to each other than {eat, think, drip}, which can be represented numerically (i.e., SD(eat, dine, drink) < SD(eat, think, drip)).
@@ -36,6 +34,11 @@ gestures represent.
     - compiled a list of 1,015 verbs from FrameNet whose superordinate categories entailed movement (e.g., self motion) or manipulation (e.g., cause impact)
     - randomly drew 20 verbs from this list (with replacement)
     - computed the mean semantic distance, repeating this process 413 times
+
+ ![Experimental design](images/experimental_design_meaning.png) 
+
+**Figure 1:** Experimental design: Turkers annotated live action videos (left) or videos of silent gestures
+(right). For each video, verbs were compared for similarity (semantic distance)
 
 # Analysis
 
@@ -50,24 +53,22 @@ gestures represent.
 
 # Results
 
- Unsurprisingly, verbs generated in response to action videos were
-significantly more consistent with each other than verbs generated in response to gestures
-(t(481) = -10.27, p<0.001). However, the latter group was more internally consistent than
-random verbs (t(412) = -39.44, p<0.001; Fig. 1a). Crucially, verbs generated from action videos
-were significantly more consistent with those generated from gesture videos than with randomly
-generated movement/manipulation verbs (t(488) = -29.97, p<0.001; Fig. 1b).
+1. Action verbs were significantly more consistent with each other than gesture verbs (t(481) = -10.27, p<0.001; Fig. 2a).
+2. Gesture verbs were more internally consistent than random verbs (t(412) = -39.44, p<0.001; Fig. 2a). 
+3. Action verbs were significantly more consistent with gesture verbs than with random verbs (t(488) = -29.97, p<0.001; Fig. 2b).
 
 | ![](https://c-huck.github.io/images/inter_consistency.png) | ![](https://c-huck.github.io/images/intra_consistency.png) |
 |:---:|:---:|
 | (a) Inter consistency | (b) Intra consistency |
-***Figure 1***: Results: (a) Verbs produced in response to gesture videos were less similar to each other
-than those produced in response to action videos (SD(action verbs) < SD(gesture verbs); MSD(act) =
+
+**Figure 2**: Results: **(a)** Verbs produced in response to gesture videos were less similar to each other
+than those produced in response to action videos (SD(action verbs) < SD(gesture verbs); M<sub>SD(act)</sub> =
 3.96, M<sub>SD(gest)</sub> = 6.25). However, both sets of verbs were more internally consistent than randomly
 selected verbs of manipulation or movement (SD(action verbs), SD(gesture verbs) << SD(random verbs);
-MSD(rand) = 8.65). The red line represents the mean of SD(random verbs), with the min-max range
-shaded in pink; (b) Verbs produced in response to action videos were more similar to verbs produced
+M<sub>SD(rand)</sub> = 8.65). The red line represents the mean of SD(random verbs), with the min-max range
+shaded in pink; **(b)** Verbs produced in response to action videos were more similar to verbs produced
 in response to gesture videos than to randomly selected verbs (SD(action videos,gesture verbs)) <<
-(SD(action verbs,random verbs); (MSD(act,gest) = 5.94, MSD(act,rand) = 8.33). The red line represents the
+(SD(action verbs,random verbs); (M<sub>SD(act,gest)</sub> = 5.94, M<sub>SD(act,rand)</sub> = 8.33). The red line represents the
 mean of SD(action verbs,random verbs), with the min-max range shaded in pink
 
 # Interpretation
