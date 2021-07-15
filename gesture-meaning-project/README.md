@@ -50,6 +50,26 @@ gestures represent.
 
 # Results
 
+ Unsurprisingly, verbs generated in response to action videos were
+significantly more consistent with each other than verbs generated in response to gestures
+(t(481) = -10.27, p<0.001). However, the latter group was more internally consistent than
+random verbs (t(412) = -39.44, p<0.001; Fig. 1a). Crucially, verbs generated from action videos
+were significantly more consistent with those generated from gesture videos than with randomly
+generated movement/manipulation verbs (t(488) = -29.97, p<0.001; Fig. 1b).
+
+| ![](https://c-huck.github.io/images/inter_consistency.png) | ![](https://c-huck.github.io/images/intra_consistency.png) |
+|:---:|:---:|
+| (a) Inter consistency | (b) Intra consistency |
+***Figure 1***: Results: (a) Verbs produced in response to gesture videos were less similar to each other
+than those produced in response to action videos (SD(action verbs) < SD(gesture verbs); MSD(act) =
+3.96, M<sub>SD(gest)</sub> = 6.25). However, both sets of verbs were more internally consistent than randomly
+selected verbs of manipulation or movement (SD(action verbs), SD(gesture verbs) << SD(random verbs);
+MSD(rand) = 8.65). The red line represents the mean of SD(random verbs), with the min-max range
+shaded in pink; (b) Verbs produced in response to action videos were more similar to verbs produced
+in response to gesture videos than to randomly selected verbs (SD(action videos,gesture verbs)) <<
+(SD(action verbs,random verbs); (MSD(act,gest) = 5.94, MSD(act,rand) = 8.33). The red line represents the
+mean of SD(action verbs,random verbs), with the min-max range shaded in pink
+
 # Interpretation
 
 Despite the reported low interpretation accuracy of silent gesture, the present, more nuanced analysis
