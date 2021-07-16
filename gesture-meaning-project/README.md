@@ -14,7 +14,7 @@ Project explores what range(s) of interpretations silent gestures are perceived 
 
 # Files
 
-- `action_label.csv' : Cleaned data from live action labeling experiment
+- `action_label.csv` : Cleaned data from live action labeling experiment
 - `common_functions.py` : functions used to 
 - `gesture_label.csv` : Cleaned data from gesture labeling experiment
 - `generate_random_verbs.py` : functions to generate random baseline for analysis
