@@ -1,0 +1,279 @@
+MANIPULATION:
+caress.n, caress.v, clasp.v, claw.v, clutch.v, diddle.v, finger.v, fumble.v, grab hold.v, grab.v, grasp.v, grip.v, grope.v, handle.v, hold.v, kiss.n, kiss.v, knead.v, lick.v, massage.v, nip.v, nudge.v, paw.v, pinch.v, poke.v, pull.n, pull.v, push.v, rub.v, seize.v, squeeze.v, stroke.n, stroke.v, tickle.v, touch.v, tug.v, tweak.v, wring.v, yank.v
+
+MANIPULATION INTO SHAPE
+coil.v, curl.v, loop.v, mold.v, roll (into).v, twist.v, wind.v
+
+MASS MOTION
+crowd.v, flock.v, flood.v, hail.v, parade.v, pelt.v, pour.v, rain.v, roll.v, shower.v, stream.v, swarm.v, teem.v, throng.v, troop.v
+
+MOTION
+blow.v, circle.v, coast.v, come.v, drift.v, float.v, fly.v, glide.v, go.v, meander.v, move.v, roll.v, slide.v, snake.v, soar.v, spiral.v, swerve.v, swing.v, travel.v, undulate.v, weave.v, wind.v, zigzag.v
+
+MOTION DIRECTIONAL
+angle.v, descend.v, dip.v, drop.n, drop.v, fall.v, plummet.v, plunge.v, rise.v, slant.v, topple.v
+
+MOVING IN PLACE
+earthquake.n, flop.v, judder.v, moving.a, quake.n, quiver.n, quiver.v, rock.v, roll.v, rotate.v, shake.v, spin.v, swing.n, swing.v, temblor.n, turn.v, twirl.v, vibrate.v, wave.v
+
+OPERATE VEHICLE
+balloon.v, bicycle.v, bike.v, boat.v, canoe.v, caravan.v, cruise.v, cycle.v, drive.v, fly.v, motor.v, paddle.v, parachute.v, pedal.v, punt.v, raft.v, ride.v, row.v, sail.v, skate.v, sledge.v, tack.v, taxi.v, toboggan.v
+
+PASSING
+pass.v
+
+PATH SHAPE
+angle.v, ascend.v, ascent.n, bear.v, bend.v, crest.v, crisscross.v, cross.v, descend.v, descent.n, dip.v, dive.v, drop.v, edge.v, emerge.v, emergence.n, enter.v, exit.v, ford.v, leave.v, meander.v, pass.v, reach.v, rise.v, round.v, run.v, skirt.v, slant.v, snake.v, swerve.v, swing.v, traverse.v, twist.v, twisting.a, twisty.a, undulate.v, veer.v, weave.v, wind.v, winding.a, windy.a, zigzag.v
+
+PATH TRAVELED
+circuit.n, course.n, orbit.n, path.n
+
+PATROLLING
+patrol [act].n, patrol [entity].n, patrol.v, police.v
+
+PLACING
+archive.v, arrange.v, bag.v, bestow.v, billet.v, bin.v, bottle.v, box.v, brush.v, cage.v, cram.v, crate.v, dab.v, daub.v, deposit.v, drape.v, drizzle.v, dust.v, embed.v, emplace.v, enclose.v, file.v, gag.v, garage.v, hang.v, heap.v, immerse.v, implant.v, implanted.a, inject.v, insert.v, insertion.n, jam.v, lay.v, lean.v, load.v, lodge.v, pack.v, package.v, park.v, perch.v, pile.v, place.v, placement.n, plant.v, plunge.v, pocket.v, position.v, pot.v, put.v, rest.v, rub.v, set.v, sheathe.v, shelve.v, shoulder.v, shower.v, sit.v, situate.v, smear.v, stable.v, stand.v, stash.v, stick.v, stow.v, stuff.v, tuck.v, warehouse.v, wrap.v
+
+PROGRESSION
+advance.n, advance.v, advancement.n, burgeon.v, develop.v, development.n, improve.v, maturation.n, mature.v, progress.n, progress.v, progression.n, stagnate.v
+
+RECEIVING
+accept.v, receipt.n, receive.v
+
+RELEASING
+let go.v, release.n, release.v, set free.v
+
+REMOVE
+amputate.v, clear.v, confiscate.v, cut.v, discard.v, disgorge.v, dislodge.v, drain.v, dust.v, eject.v, ejection.n, eliminate.v, elimination.n, empty.v, evacuate.v, evacuation.n, evict.v, eviction.n, excise.v, expel.v, expulsion.n, expunge.v, expurgate.v, extract.v, extraction.n, file.v, flush.v, oust.v, pluck.v, prise.v, purge.n, purge.v, removal.n, remove.v, rinse.v, rip.v, roust.v, scrape.v, shave.v, skim.v, snatch.v, strip.v, swipe.v, take.v, tear.v, unload.v, wash.v, weed.v, withdraw.v, withdrawal.n
+
+REPLACING
+change.v, exchange.v, replace.v, replacement.n, substitute.v, substitution.n, swap out.v, switch.v
+
+RESHAPING
+bend.v, crumple.v, crush.v, curl.v, deformation.n, dent.v, flatten.v, fold.v, form.v, launch.v, mold.v, roll.v, scrunch.v, shape.v, squash.v, squish.v, warp.v
+
+ROPE MANIPULATION
+braid.v, knot.v, tangle.v, tie.v
+
+SELF MOTION
+advance.v, amble.v, back.v, barge.v, bop.v, bound.v, burrow.v, bustle.v, canter.v, caper.v, clamber.v, climb.v, clomp.v, coast.v, crawl.n, crawl.v, creep.v, cruise.v, dance.v, dart.v, dash.n, dash.v, drive.v, edge.v, en route.adv, enroute.a, file.v, flit.v, flounce.v, fly.v, frolic.v, gallivant.v, gambol.v, goose-step.v, hasten.v, head.v, hike.n, hike.v, hiker.n, hitchhike.v, hobble.v, hop.v, hurry.v, jaunt.n, jog.v, jump.v, leap.v, limp.v, lope.v, lumber.v, lunge.v, lurch.v, make a beeline.v, make.v, march.n, march.v, meander.v, mince.v, mosey.v, nance.v, pace.v, pad.v, parade.v, plod.v, pounce.v, prance.v, press.v, proceed.v, promenade.v, prowl.v, ramble.n, repair.v, rip.v, roam.v, romp.v, rove.v, run.v, rush.v, sail.v, sashay.v, saunter.v, scamper.v, scoot.v, scramble.n, scramble.v, scurry.v, scuttle.v, shoulder.v, shrink.v, shuffle.n, shuffle.v, sidle.v, skim.v, skip.v, skulk.v, slalom.v, sleepwalk.v, slink.v, slip.v, slither.v, slog.n, slog.v, slop.v, slosh.v, slouch.v, sneak.v, spring.v, sprint.n, sprint.v, stagger.v, stalk.v, steal.v, step.n, step.v, stomp.v, storm.v, straggle.v, stride.v, stroll.n, stroll.v, strut.v, stumble.v, swagger.v, swim.n, swim.v, swing.v, tack.v, take to the air.v, taxi.v, tiptoe.v, toddle.v, totter.v, traipse.v, tramp.v, tread.v, trek.v, trip.v, troop.v, trot.v, trudge.v, trundle.v, vault.v, venture.v, waddle.v, wade.v, walk.n, walk.v, waltz.v, wander.v, way.n, whisk.v, wriggle.v
+
+SENDING
+barge.v, dispatch.v, export.v, express.v, fax.v, forward.v, mail.v, post.v, refer.v, route.v, send.v, ship.v, shipment [act].n, shipment [items].n, shipping.n, telex.v, wire.v
+
+SEPARATING
+bisect.v, divide.v, part.v, partition.n, partition.v, section.v, segment.v, segregate.v, separate.v, sever.v, split.v
+
+TAKING
+commandeer.v, grab.v, seize.v, seizure.n, take.v
+
+THEFT
+abscond (with).v, abstract.v, abstraction.n, bag.v, cop.v, cutpurse.n, embezzle.v, embezzlement.n, embezzler.n, filch.v, flog.v, heist.n, larceny.n, lift.v, light-fingered.a, make off (with).v, misappropriate.v, misappropriation.n, nick.v, peculation.n, pickpocket.n, pickpocket.v, pilfer.v, pilferage.n, pilferer.n, pilfering.n, pinch.v, purloin.v, rustle.v, shoplift.v, shoplifter.n, shoplifting.n, snatch.n, snatch.v, snatcher.n, snitch.v, steal.v, stealer.n, stealing.n, stolen.a, swipe.v, theft.n, thief.n, thieve.v, thieving.a, thieving.n
+
+TRANSFER
+transfer.n, transfer.v
+
+TRANSITIVE ACTION
+(use as meta category?)
+
+UNDERGO CHANGE
+change.n, change.v, changeable.a, go.v, plummet.v, shift.n, shift.v, swing.v, transition.n, turn.v, veer.v
+
+AMMASSING
+accumulate.v, accumulation.n, amass.v, hoard.v, stockpile.v
+
+APPLY HEAT
+bake.v, baking.n, barbecue.v, blanch.v, boil.v, boiling.n, braise.v, broil.v, broiling.n, brown.v, char.v, coddle.v, cook.v, cooking.n, deep fry.v, fry.v, frying.n, grill.v, grilling.n, melt.v, melting.n, microwave.v, parboil.v, plank.v, poach.v, roast.v, roasting.n, saute.v, scald.v, scorch.v, sear.v, simmer.v, simmering.n, singe.v, steam.v, steaming.n, steep.v, stew.v, stewing.n, toast.v, toasting.n
+
+ARREST
+apprehend.v, apprehension.n, arrest.n, arrest.v, book.v, bust.n, bust.v, collar.v, cop.v, nab.v, summons.v
+
+ARRIVING
+appear.v, approach.n, approach.v, arrival.n, arrive.v, come.v, crest.v, descend (on).v, enter.v, entrance.n, entry.n, find.v, get.v, hit.v, influx.n, make it.v, make.v, reach.v, return.n, return.v, visit.n, visit.v
+
+ASSEMBLE
+assemble.v, convene.v, meet.v
+
+ATTACH
+adhere.v, affix.v, agglutinate.v, anchor.v, append.v, attach.v, attachment [act].n, attachment [item].n, bind.v, bond.v, bracket.v, cement.v, chain.v, cinch.v, concatenate.v, connect.v, detach.v, fasten.v, fetter.v, fix.v, fuse.v, glue.v, gum.v, handcuff.v, hitch.v, hook.v, join.v, lash.v, link.v, manacle.v, moor.v, mount.v, nail.v, paste.v, pin.v, plaster.v, rivet.v, secure.v, sew.v, shackle.v, solder.v, staple.v, stick.v, strap.v, tack on.v, tack.v, tape.v, tether.v, tie.v, truss.v, tying.n, untie.v, weld.v, wire.v, yoke.v
+
+BECOMING
+become.v, turn.v
+
+BECOMING DETACHED
+decouple.v, detach.v, unhinge.v, unhook.v
+
+BECOMING SEPARATED
+divide.v, separate.v, split.v
+
+BECOMING VISIBLE
+appear.v
+
+BEING LOCATION
+find.v, lie.v, located.a, sit.v, situated.a, stand.v, twenty.n, whereabouts.n
+
+BODY MOVEMENT
+arch.v, bat.v, bend.v, blink.v, bob.v, clap.v, close.v, cock.v, crane.v, crease.v, crinkle.v, cross.v, crumple.v, curtsy.n, curtsy.v, drop.v, duck.v, fidget.v, flap.v, flex.v, fling.v, flutter.v, gnash.v, grind.v, hang.v, jerk.v, jiggle.v, kneel.v, lift.v, move.v, nod.v, open.v, pout.v, pucker.v, purse.v, reach.v, roll.v, scrunch.v, shake.v, shiver.v, shrug.v, shudder.v, shuffle.v, shut.v, smack.v, stamp.v, stretch.v, swing.v, throw.v, toss.v, twiddle.v, twist.v, twitch.v, wag.v, waggle.v, wave.v, wiggle.v, wink.n, wink.v, wriggle.v, wrinkle.v, writhe.v, yawn.v
+
+BORROWING
+borrow.v
+
+BREAKING APART
+break apart.v, break down.v, break.v, crumble.v, fragment.v, shatter.v, snap.v, splinter.v
+
+BREAKING OFF
+break.v, chip.v, snap.v
+
+BRINGING
+airlift.v, bear.v, bike.v, bring.v, bus.v, carry.v, cart.v, convey.v, drive.v, ferry.v, fetch.v, fly.v, get.v, haul.v, hump.v, jet.v, lug.v, mobile.a, motor.v, paddle.v, portable.a, row.v, schlep.v, shuttle.v, take.v, tote.v, transport.n, transport.v, truck.v, trundle.v, wheel.v
+
+BUILDING
+assemble.v, assembly.n, build.v, construct.v, construction [entity].n, construction.n, erect.v, fashion.v, fit together.v, glue.v, make.v, piece together.v, put together.v, raise.v, weld.v
+
+BURYING
+bury.v
+
+CARRY GOODS
+carry.v, stock.v
+
+CAUSATION
+because of.prep, because.c, bring about.v, bring on.v, bring.v, causative.a, cause.n, cause.v, consequence.n, consequent.a, consequential.a, dictate.v, due to.prep, for.c, force.v, give rise.v, induce.v, lead (to).v, leave.v, legacy.n, make.v, mean.v, motivate.v, precipitate.v, put.v, raise.v, reason.n, render.v, responsible.a, result (in).v, result.n, resultant.a, resulting.a, see.v, send.v, since.c, so.c, sway.v, wreak.v
+
+CAUSE CHANGE OF CONSISTENCY
+clot.v, coagulate.v, congeal.v, curdle.v, harden.v, indurate.v, inspissate.v, jell.v, set.v, soften.v, thicken.v, thin.v
+
+CAUSE CHANGE
+alter.v, alteration.n, change.v, conversion.n, convert.v, deform.v, make.v, modification.n, modify.v, reshape.v, shift.v, transform.v, transformation.n, turn.v, variation.n, vary.v
+
+CAUSE CHANGE OF POSITION ON A SCALE
+add.v, crank.v, curtail.v, cut.n, cut.v, decrease.v, development.n, diminish.v, double.v, drop.v, enhance.v, growth.n, increase.v, knock down.v, lift.v, lower.v, move.v, promote.v, push.n, push.v, raise.v, reduce.v, reduction.n, slash.v, step up.v, swell.v
+
+CAUSE MOTION
+attract.v, cast.v, catapult.v, chuck.v, drag.v, draw.v, drive.v, drop.v, fling.v, force.v, haul.v, hit.v, hurl.v, impel.v, jerk.v, knock.v, launch.v, lift.v, move.v, nudge.v, pitch.v, press.v, propel.v, pull.v, punt.v, push.v, rake.v, roll.v, run.v, scoot.v, shove.v, slam.v, slide.v, stick.v, throw.v, thrust.v, toss.v, transfer.v, tug.v, wrench.v, wrest.v, yank.v
+
+CAUSE IMPACT
+bang.v, clang.v, clash.v, clatter.v, click.v, clink.v, collide.v, crash.v, graze.v, hit.v, jab.v, plow.v, ram.v, rap.v, rattle.v, run.v, rustle.v, slam.v, slap.v, smack.v, strike.v, thud.v, thump.v
+
+CAUSE HARM
+bash.v, batter.v, bayonet.v, beat up.v, beat.v, belt.v, biff.v, bludgeon.v, boil.v, break.v, bruise.v, buffet.v, burn.v, butt.v, cane.v, chop.v, claw.v, clout.v, club.v, crack.v, crush.v, cudgel.v, cuff.v, cut.v, drug.v, elbow.v, electrocute.v, electrocution.n, flagellate.v, flog.v, fracture.v, gash.v, hammer.v, hit.v, horsewhip.v, hurt.v, impale.v, injure.v, jab.v, kick.v, knee.v, knife.v, knock.v, lash.v, maim.v, maul.v, mutilate.v, pelt.v, poison.v, poisoning.n, pummel.v, punch.v, run through.v, slap.v, slice.v, smack.v, smash.v, spear.v, squash.v, stab.v, sting.v, stone.v, strike.n, strike.v, swipe.v, thwack.v, torture.v, transfix.v, twist.v, welt.v, whip.v, wound.v
+
+CAUSE FLUDIC MOTION
+dribble.v, drip.v, pump.v, spatter.v, spew.v, spill.v, splash.v, splatter.v, spray.v, sprinkle.v, squirt.v
+
+CAUSE TO AMALGAMATE
+admix.v, amalgamate.v, blend.v, bring together.v, coalesce.v, combination.n, combine.v, commingle.v, compound.v, conflate.v, consolidate.v, flux.v, fold.v, fuse.v, intermix.v, join.v, jumble.v, lump.v, meld.v, merge.v, merger.n, mix.v, pair.v, throw together.v, unify.v, unite.v
+
+CAUSE TO MOVE IN PLACE
+jiggle.v, juggle.v, rock.v, roll.v, rotate.v, seesaw.v, shake.v, spin.v, squeeze.v, swing.v, swirl.v, turn.v, twirl.v, vibrate.v, wave.v, wiggle.v
+
+CEASING TO BE
+disappear.v, disappearance.n, dissipate.v, dissipation.n, dissolve.v, fade.v, go away.v, vanish.v
+
+CHANGE DIRECTION
+bear.v, cut.v, left.n, right.n, swing.v, turn.n, turn.v, veer.v
+
+CHANGE CONSISTENCY
+clot.v, coagulate.v, coagulation.n, congeal.v, curdle.v, harden.v, indurate.v, jell.v, set.v, soften.v, thicken.v, thin.v
+
+CHANGE CONSISTENCY
+condensation.n, condense.v, defrost.v, evaporate.v, evaporation.n, freeze.v, liquefy.v, melt.v, solidification.n, solidify.v, sublimation.n, sublime.v, thaw.v, unfreeze.v, vaporize.v
+
+CHANGE QUANTITY OF POSSESSION
+gain.v, lose.v
+
+CHANGE OPERATIONAL STATE
+activate.v, boot.v, cut off.v, cut.v, deactivate.v, kill.v, shut off.v, turn off.v, turn on.v
+
+CHANGE POSITION ON A SCALE
+accelerated.a, advance.v, balloon.v, climb.v, contract.v, contraction.n, decline.n, decline.v, decrease.n, decrease.v, depressed.a, depression.n, diminish.v, dip.v, double.v, down.prep, drop.v, dwindle.v, edge.v, elevated.a, elevation.n, escalation.n, explode.v, explosion.n, fall.n, fall.v, fluctuate.v, fluctuation.n, gain.n, gain.v, grow.v, growing.a, growth.n, hike.n, increase.n, increase.v, increasingly.adv, jump.v, lower.v, move.v, mushroom.v, plummet.v, reach.v, rise.n, rise.v, rocket.v, shift.n, shift.v, skyrocket.v, slide.v, soar.v, swell.v, swing.v, triple.v, tumble.n, tumble.v
+
+CHANGE POSTURE
+bend.v, crouch down.v, crouch.v, drop.v, huddle.v, hunch up.v, hunch.v, kneel down.v, kneel up.v, kneel.v, lean.v, lie down.v, lie.v, rise.v, sit down.v, sit up.v, sit.v, slouch.v, sprawl out.v, sprawl.v, squat down.v, squat.v, stand up.v, stand.v, stoop.v
+
+COME TOGETHER
+amass.v, assemble.v, band together.v, band.v, come together.v, congregate.v, convene.v, gang together.v, gather.v, meet.v, throng.v
+
+COMING TO BE
+appear.v, arise.v, coalesce.v, come into existence.v, come to be.v, develop.v, development.n, emerge.v, evolution.n, evolve.v, form.v, materialize.v, spring up.v, take shape.v
+
+CONTAINING
+contain.v, hold.v, house.v, store.v
+
+COTHEME
+accompany.v, chase.v, conduct.v, dog (someone's) steps.idio, dog.v, escort.v, follow.v, guide.v, guided.a, hound.v, lead the way.v, lead.v, pursue.v, pursuer.n, pursuit.n, shadow.v, shepherd.v, show.v, stalk.v, tag along.v, tail.v, track.v, trail.v, usher.v, walk.v
+
+CREATING
+assemble.v, create.v, form.v, formation.n, generate.v, issuance.n, issue.v, make.v, produce.v, production.n, yield.v
+
+DEPARTING
+decamp.v, depart.v, departure.n, disappear.v, disappearance.n, emerge.v, escape.n, escape.v, exit.n, exit.v, exodus.n, leave.v, skedaddle.v, vamoose.v, vanish.v
+
+DESTROYING
+annihilate.v, annihilation.n, blast.v, blow up.v, demolish.v, demolition.n, destroy.v, destruction.n, destructive.a, devastate.v, devastation.n, dismantle.v, dismantlement.n, lay waste.v, level.v, obliterate.v, obliteration.n, raze.v, ruin.v, take out.v, unmake.v, vaporize.v
+
+DISEMBARKING
+alight.v, debark.v, debus.v, deplane.v, detrain.v, disembark.v, disembarkation.n, dismount.v, get.v
+
+DISPERSAL
+dispersal.n, disperse.v, dispersion.n, disseminate.v, dissolution.n, dissolve.v, distribute.v, distribution.n, pass on.v, scatter.v, spread.v, sprinkle.v, strew.v
+
+DODGING
+dodge.n, dodge.v, sidestep.n, sidestep.v
+
+EMANATING
+discharge.v, emanate.v, excrete.v, exude.v, issue.v, radiate.v, secrete.v
+
+ESCAPING
+bust out.v, escape.v, evacuate.v, evacuation.n, fly the coop.v, get free.v, get loose.v, get out.v, scarper.v
+
+EVADING
+elude.v, elusive.a, evade.v, evasion.n, evasive.a, flee.v, get away.v, give the slip.v, skip town.v
+
+EXPLOSION
+blast.n, blow up.v, blow.v, detonate.v, detonation.n, explode.v, explosion.n
+
+FILLING
+accessorize.v, adorn.v, anoint.v, asphalt.v, brush.v, butter.v, coat.v, cover.v, cram.v, crowd.v, dab.v, daub.v, douse.v, drape.v, dress.v, drizzle.v, dust.v, embellish.v, fill.v, flood.v, gild.v, glaze.v, hang.v, heap.v, inject.v, jam.v, load.v, pack.v, paint.v, panel.v, pave.v, pile.v, plank.v, plant.v, plaster.v, pump.v, scatter.v, seed.v, shower.v, smear.v, sow.v, spatter.v, splash.v, splatter.v, spray.v, spread.v, sprinkle.v, squirt.v, strew.v, stuff.v, suffuse.v, surface.v, tile.v, varnish.v, wallpaper.v, wash.v, wax.v, wrap.v, yoke.v
+
+FLEEING
+bolt.v, flee.v, flight.n, run away.v
+
+FLUIDIC MOTION
+bubble.v, cascade.v, course.v, dribble.v, drip.v, flow.v, gush.v, hiss.v, jet.v, leak.v, ooze.v, percolate.v, pump.v, purl.v, run.v, rush.v, seep.v, soak.v, spew.v, spill.v, splash.v, splatter.v, spout.v, spray.v, spurt.v, squirt.v, stream.v, trickle.v
+
+FOOD GATHERING
+bring in.v, gather.v, harvest.v, pick.v
+
+GATHERING UP
+amass.v, assemble.v, bring together.v, collect.v, convene.v, gather.v, herd.v, round up.v
+
+GETTING
+acquire.v, acquisition [act].n, acquisition [entity].n, gain.v, get.v, obtain.v, procure.v, procurement [act].n, score.v, secure.v, win.v
+
+GETTING UP
+get up.v, rise.v
+
+GETTING VEHICLE UNDERWAY
+cast off.v, launch.v, lift (off).v, pull (out).v, take (off).v, weigh anchor.v
+
+GIVING
+advance.v, bequeath.v, bequest.n, charity.n, confer (upon).v, contribute.v, contribution.n, donate.v, donation.n, donor.n, endow.v, fob off.v, foist.v, gift.n, gift.v, give out.v, give.v, hand in.v, hand out.v, hand over.v, hand.v, leave.v, pass out.v, pass.v, treat.v, volunteer.v, will.v
+
+GO INTO SHAPE
+coil.v, curl.v, fold [protein].v, fold.v, twist.v
+
+HIDING OBJECTS
+block.v, camouflage.v, conceal.v, cover.v, hide.v, mask.v, shroud.v
+
+IMPACT
+bang.v, brush.v, bump.v, chatter.v, clang.v, clash.v, clatter.v, click.v, clink.v, clunk.v, collide.v, collision.n, crash.n, crash.v, crunch.v, glancing.a, graze.v, hiss.v, hit.n, hit.v, impact.n, impact.v, impinge.v, knock.v, patter.v, plash.v, plop.v, plow.v, plunk.v, rap.v, rattle.v, run.v, slam.v, slap.v, smack.v, smash.v, strike.v, thud.v, thump.v, tinkle.v, touch.v
+
+KILLING
+annihilate.v, annihilation.n, asphyxiate.v, assassin.n, assassinate.v, assassination.n, behead.v, beheading.n, blood-bath.n, bloodshed.n, butcher.v, butchery.n, carnage.n, crucifixion.n, crucify.v, deadly.a, decapitate.v, decapitation.n, destroy.v, dispatch.v, do in.v, drown.v, eliminate.v, euthanasia.n, euthanize.v, exterminate.v, extermination.n, fatal.a, fatality.n, fratricide.n, garrotte.v, genocide.n, holocaust.n, homicide.n, immolation.n, infanticide.n, kill.v, killer.n, killing.n, lethal.a, liquidate.v, liquidation.n, liquidator.n, lynch.v, massacre.n, massacre.v, matricide.n, murder.n, murder.v, murderer.n, patricide.n, pogrom.n, regicide.n, shooting.n, silence.v, slaughter.n, slaughter.v, slaughterer.n, slay.v, slayer.n, slaying.n, smother.v, smothering.n, starve.v, suffocate.v, suffocation.n, suicide.n, suicide.v, take (someone's) life.idio, take out.v, terminate.v
+
+LEND
+lend.v, loan.n, loan.v
+
+
+
+

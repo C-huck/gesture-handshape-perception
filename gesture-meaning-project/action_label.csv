@@ -1,0 +1,2006 @@
+item,filename,sentence,verb,transitivity
+adjust-picture-TR,adjust-picture-TR.mp4,The man wiggles the wall hanging,['wiggle'],1
+adjust-picture-TR,adjust-picture-TR.mp4,The man turned the painting back and forth.,['turn'],1
+adjust-picture-TR,adjust-picture-TR.mp4,The man turns the poster.,['turn'],1
+adjust-picture-TR,adjust-picture-TR.mp4,A man turned a picture.,['turn'],1
+adjust-picture-TR,adjust-picture-TR.mp4,The man turned the picture.,['turn'],1
+adjust-picture-TR,adjust-picture-TR.mp4,jack tilted a picture on an easel a few times.,['tilt'],1
+adjust-picture-TR,adjust-picture-TR.mp4,The man tilted the painting back and forth.,['tilt'],1
+adjust-picture-TR,adjust-picture-TR.mp4,Jack tilts the painting back and forth.,['tilt'],1
+adjust-picture-TR,adjust-picture-TR.mp4,The man is tilting a painting.,['tilt'],1
+adjust-picture-TR,adjust-picture-TR.mp4,The man swings the poster.,['swing'],1
+adjust-picture-TR,adjust-picture-TR.mp4,Jack straightens a painting.,['straighten'],1
+adjust-picture-TR,adjust-picture-TR.mp4,The man straightens a painting,['straighten'],1
+adjust-picture-TR,adjust-picture-TR.mp4,The man straightened the picture,['straighten'],1
+adjust-picture-TR,adjust-picture-TR.mp4,the man showing a painting,['show'],1
+adjust-picture-TR,adjust-picture-TR.mp4,The man shifted the picture.,['shift'],1
+adjust-picture-TR,adjust-picture-TR.mp4,The man rotated the painting back and forth,['rotate'],1
+adjust-picture-TR,adjust-picture-TR.mp4,the man rotated the painting,['rotate'],1
+adjust-picture-TR,adjust-picture-TR.mp4,A man rotates a painting.,['rotate'],1
+adjust-picture-TR,adjust-picture-TR.mp4,The man rotated the painting.,['rotate'],1
+adjust-picture-TR,adjust-picture-TR.mp4,The man rotates the painting.,['rotate'],1
+adjust-picture-TR,adjust-picture-TR.mp4,the man moved a painting back and forth.,['move'],1
+adjust-picture-TR,adjust-picture-TR.mp4,The man moved the painting back and forth.,['move'],1
+adjust-picture-TR,adjust-picture-TR.mp4,"The man moves the painting back and forth,",['move'],1
+adjust-picture-TR,adjust-picture-TR.mp4,Jack moved the picture around as he looked at it.,"['move', 'look']",1
+adjust-picture-TR,adjust-picture-TR.mp4,The man moves a painting left and right.,"['move', 'leave']",1
+adjust-picture-TR,adjust-picture-TR.mp4,The man kept moving the portrait.,"['keep', 'move']",1
+adjust-picture-TR,adjust-picture-TR.mp4,the boy adjusted position of  colorful painting,['adjust'],1
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,Jack wheeled around in a chair.,['wheel'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,A man in a rolling chair moves forward without using his arms or moving his body.,"['use', 'move']",0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,he slid into view of camera,['slide'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,A man slides across the room on a chair.,['slide'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man slides forward in his chair.,['slide'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,man was sliding forward with the chair,['slide'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,the mans chair rolled him forward,['roll'],1
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,Jack rolls to the coat rack.,['roll'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man rolled to the left in his chair.,['roll'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,Man rolls across the screen on office chair,['roll'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man rolled the chair.,['roll'],1
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The chair is rolling to the left.,['roll'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man is rolling towards the left while sitting in his chair.,['roll'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man rolled toward the coat rack.,['roll'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man was rolling across the floor.,['roll'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man rolled in a chair.,['roll'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man rolled in his chair.,['roll'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man rolled his chair to the coat rack.,['roll'],1
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man's chair with the man in it rolled toward the red coat rack.,['roll'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man moved forward in his chair,['move'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The chair with the man in it moved towards the coat rack,['move'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,Jacks chair movesd forward.,['move'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man moved in his chair.,['move'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man moved forward.,['move'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man sat in the chair as it moved.,['move'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,Jack was moved by his chair,['move'],1
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man moved his chair across the room.,['move'],1
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man moved left in his chair.,"['move', 'leave']",0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man glides on the wheels of the chair.,['glide'],0
+approach-coatrack-IN,appraoch-coat-hanger-TR.mp4,The man approaches the rack,['approach'],1
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The man sits next to a bouncing ball.,['sit'],
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,A ball fell in front of the man.,['fall'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,Red ball falls from above and bounces on table in front of man.,"['fall', 'bounce']",0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The orange ball drops into a bounce on the table.,['drop'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The ball dropped.,['drop'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,A ball is dropped on a table.,['drop'],1
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,A ball dropped on the table.,['drop'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The ball drops.,['drop'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,A ball is dropped onto a table in front of the man from above.,['drop'],1
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,a ball was dropped on the table and it bounced,"['drop', 'bounce']",1
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The orange ball was dropped from above the man's head and bounced in front of him on the table.,"['drop', 'bounce']",1
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,a ball bounced,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,the ball bounced up and won in front of the man,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The ball bounces.,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The ball bounced in front of Jack.,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The ball bounced.,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,An orange ball bounced on the table.,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The ball bounced on the table.,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,the ball bounced on table,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The ball is bouncing on the table.,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The ball is bouncing.,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The orange ball bounced.,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,A ball bounces on the table.,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,A ball bounced in front of the man.,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The ball bounced,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The ball bounced.,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The ball is bouncing.,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The ball bounced on the table.,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,ball was bouncing on the table,['bounce'],0
+ball-bounce-IN,ball-bounce-CLIP-FIRST-SECOND-IN.mp4,The ball bounced in front of the man while he did not move or respond.,"['bounce', 'move', 'respond']",0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,A green ball drops in front of the man,['drop'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,The ball was thrown on the table.,['throw'],1
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,a green object was thrown by the seated boy,['throw'],1
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,something green landed on the table.,['land'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,The green ball landed on the table in front of Jack.,['land'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,The green object falls in front of the man,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,The green object fell on the manilla folder.,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,The object falls from the sky.,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,AN object fell down.,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,A green object falls on the table.,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,A toy grenade falls onto the table.,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,the ball fell on the yellow paper,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,An object fell.,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,The green object falls down from above.,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,A squishy ball fell onto the table.,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,a ball fell in front of the man,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,A ball falls onto a table,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,A ball in a sack fell from above the man.,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,The ball fell onto the table,['fall'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,A green ball dropped on a yellow folder,['drop'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,An object was dropped onto the table,['drop'],1
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,A ball drops.,['drop'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,The green ball dropped on the table.,['drop'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,The green ball dropped on the table.,['drop'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,A ball drops in front of the man.,['drop'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,The ball was dropped.,['drop'],0
+ball-drop-IN,ball-drop-no-bounce-IN.mp4,The lemon drops in front of the man.,['drop'],0
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,A ball was tossed and knocked over the water bottle in front of Jack.,"['toss', 'knock']",1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,A thrown orange ball knocked a water bottle over in front of Jack.,"['throw', 'knock']",1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,A ball was thrown that knocked over a bottle,"['throw', 'knock']",1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,bakk was thrown and knocked over bottle containing liquied,"['throw', 'knock', 'contain', 'liquid']",1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,The ball strikes the object and knocks it over.,"['strike', 'knock']",1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,A ball knocked over the bottle.,['knock'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,A ball knocks over a bottle.,['knock'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,The ball knocked over the bottle.,['knock'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,A ball knocked down the bottle.,['knock'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,A ball knocks over a bottle.,['knock'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,A ball knocks over the bottle.,['knock'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,A ball knocked over a bottle.,['knock'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,A ball knocked over the bottle.,['knock'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,An orange ball knocks over a water bottle,['knock'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,A ball knocks over a water bottle.,['knock'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,The ball knocks over the bottle.,['knock'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,The water bottle is knocked over by an orange ball being thrown at it.,"['knock', 'throw']",1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,The bottle was hit with the ball,['hit'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,the water bottle was hit with a ball.,['hit'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,The ball hit the bottle across the room.,['hit'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,the ball hit the bottle,['hit'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,The ball hit the water bottle.,['hit'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,the ball hit the bottle,['hit'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,The ball hit the bottle.,['hit'],1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,The ball hit the bottle and knocked it over.,"['hit', 'knock']",1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,a ball hit the water bottle and knocked it over,"['hit', 'knock']",1
+ball-hit-waterbottle-TR,ball-hit-waterbottle-IN-TR.mp4,The object flies into the water bottle.,['fly'],0
+ball-roll-IN,ball-roll-IN.mp4,Ball rolls by in front of the man,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,An Orange ball rolled past Jack.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,The ball rolled across the table.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,A ball rolls across the table.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,The ball rolled on the table.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,The object rolls across the table.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,a ball rolled across the table,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,The ball rolls across the table.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,A ball rolls across the table.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,A ball rolls across the table.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,An orange ball rolls across the table.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,A ball rolled across the table in front of the man.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,the ball rolled,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,A ball rolled across a table.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,The ball was rolled.,['roll'],1
+ball-roll-IN,ball-roll-IN.mp4,The orange ball rolls past Jack.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,The ball rolled across the table.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,The orange ball rolled across the table in front of Jack.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,An orange ball rolls in front of the man,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,an orange is rolling over the desk in front of the man,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,the orange ball rolled by seated boy,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,A ball rolls across a table.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,A ball rolled in front of the man.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,The ball rolls on the table.,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,the ball rolled across the table,['roll'],0
+ball-roll-IN,ball-roll-IN.mp4,The ball rolled from right to left,"['roll', 'leave']",0
+ball-roll-IN,ball-roll-IN.mp4,The ball moved across the table.,['move'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon shrunk.,['shrink'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,A balloon shrunk.,['shrink'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon shrunk.,['shrink'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon ran out of air while the man remained motionless,['run'],1
+balloon-deflate-IN,balloon-deflate-IN.mp4,the balloon was losing air,['lose'],1
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon lost its air.,['lose'],1
+balloon-deflate-IN,balloon-deflate-IN.mp4,The air was let out of a balloon.,['let'],1
+balloon-deflate-IN,balloon-deflate-IN.mp4,air leaked from baloon,['leak'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,Air escapes from a balloon in front of the man.,['escape'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The air escaped out of a balloon.,['escape'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,THe red balloon disapated.,['dissipate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon deflated,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,the red balloon deflated in front of the man,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The red balloon deflates.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The red balloon deflates in front of the man.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon deflated in front of Jack.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon deflated.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,red balloon gradually deflates on its own,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon deflated.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon deflates.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon deflated.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,A balloon deflates.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,the balloon deflated,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon deflates.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon deflates.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The red balloon deflated.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon deflated.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The balloon deflated.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The red balloon deflated in front of the man.,['deflate'],0
+balloon-deflate-IN,balloon-deflate-IN.mp4,The red balloon deflated until all the air was gone from it.,"['deflate', 'go']",0
+book-fall-over-IN,book-fall-over-IN.mp4,"A book standing up, falls over.","['stand', 'fall']",0
+book-fall-over-IN,book-fall-over-IN.mp4,An upright book fell over on a table.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,Book falls in front of the man,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book fell over,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book fell over.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book fell.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book fell over.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book falls down on the table.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,a book fell over onto the table,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book falls down.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,A book falls over.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book fell in front of the man.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,A book falls over.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book fell over in front of the man.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,the book fell over,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book fell.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book fell over,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The orange book falls over.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book fell.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book fell down on the table in front of Jack.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book fell to the table,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,the book fell in front of the man,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,the book fell down in front of the boy seated,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,A book falls.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book fell over in front of the man.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book falls over.,['fall'],0
+book-fall-over-IN,book-fall-over-IN.mp4,The book fell over on the table,['fall'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The jar toppled over after being tugged by a string.,"['topple', 'tug']",0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The jar tipped over.,['tip'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The jar tipped over.,['tip'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,A bottle of tops tips over and the tops spill onto the table.,"['tip','spill']",0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The bottle spilled over,['spill'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The jar spilled over.,['spill'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The man spills some bottle caps.,['spill'],1
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,the bottle tops spilled on the table,['spill'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The objects spill.,['spill'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,A jar of buttons spilled.,['spill'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,A jar spilled.,['spill'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The jar spilled the buttons.,['spill'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,jar was spilled,['spill'],1
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The jar's contents spilled onto the table in front of the man.,['spill'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The contents of the jar spilled out when it fell over.,"['spill', 'fall']",0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,a string pulled over the jar of objects in front of the man,['pull'],1
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The string pulls the bottle down.,['pull'],1
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,A jar of buttons gets pulled over,['pull'],1
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,the jar of bottle caps was pulled over by a string,['pull'],1
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,"Jar of buttons is pulled by fishing line and falls over, its contents spilling onto table","['pull', 'fall', 'spill']",1
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The buttons flew out of the jar.,['fly'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,a jar of buttons fell in front of the man,['fall'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The button jar falls over.,['fall'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,the jar fell over,['fall'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The cup fell over.,['fall'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The jar of caps fell over.,['fall'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,A jar of buttons fell over.,['fall'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The jar fell over,['fall'],0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The jar of buttons falls over when pulled by a string.,"['fall', 'pull']",0
+bottle-caps-spill-IN,bottle-caps-spill-IN.mp4,The jar fell over in front of jack and objects fell out of it.,"['fall', 'fall']",0
+bounce-ball-TR,bounce-ball-TR.mp4,The man dribbles the orange ball.,['dribble'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man dribbled the ball on the table.,['dribble'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man is dribbling the ball on the table.,['dribble'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man dribbles.,['dribble'],
+bounce-ball-TR,bounce-ball-TR.mp4,man dribbling the ball on table,['dribble'],1
+bounce-ball-TR,bounce-ball-TR.mp4,a man bounced a ball,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,the man bounced the ball up and down,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man bounced the ball,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,Jack bounces the ball.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,Jack bounced the ball.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man bounced the ball.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,Man bounces red ball on table,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,Jack bounced a ball.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,he bounced the ball,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man bounces a ball on the table.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man is bouncing a ball.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man bounched the ball.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,A man bounces a ball.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man repeatedly bounced the balloon on the table.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,Jack bounced a ball on the table,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man bounced the ball.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,A ball is bounced on a table.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man bounced a balloon.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man bounced a ball on the table.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man bounces a ball on a tabletop.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man bounced a ball.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man is bouncing the ball.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man bounced the ball on the table.,['bounce'],1
+bounce-ball-TR,bounce-ball-TR.mp4,The man bounced the orange ball on the table in front of himself using his right hand.,"['bounce', 'use']",1
+box-move-IN,box-move-IN.mp4,The box slid across the table.,['slide'],0
+box-move-IN,box-move-IN.mp4,The box slid across the table.,['slide'],0
+box-move-IN,box-move-IN.mp4,The box slid across the table.,['slide'],0
+box-move-IN,box-move-IN.mp4,The box slides across the table.,['slide'],0
+box-move-IN,box-move-IN.mp4,A box slides across the table,['slide'],0
+box-move-IN,box-move-IN.mp4,The box slid from the right to left.,['slide'],0
+box-move-IN,box-move-IN.mp4,The box slides across the table.,['slide'],0
+box-move-IN,box-move-IN.mp4,The box slid across the table.,['slide'],0
+box-move-IN,box-move-IN.mp4,The box slides past the man.,['slide'],0
+box-move-IN,box-move-IN.mp4,the box slid across the table,['slide'],0
+box-move-IN,box-move-IN.mp4,The box moved sideways,['move'],0
+box-move-IN,box-move-IN.mp4,The box moved to the left,['move'],0
+box-move-IN,box-move-IN.mp4,The box moved across the table.,['move'],0
+box-move-IN,box-move-IN.mp4,the box moved on its own.,['move'],0
+box-move-IN,box-move-IN.mp4,The box moved to the other side of the table.,['move'],0
+box-move-IN,box-move-IN.mp4,The box moved across the table.,['move'],0
+box-move-IN,box-move-IN.mp4,The box moved across the table by itself.,['move'],0
+box-move-IN,box-move-IN.mp4,The box moved across the table on its own in front of the man.,['move'],0
+box-move-IN,box-move-IN.mp4,the box moved,['move'],0
+box-move-IN,box-move-IN.mp4,A box moved across a table.,['move'],0
+box-move-IN,box-move-IN.mp4,The box moved.,['move'],0
+box-move-IN,box-move-IN.mp4,The box moved across the table in front of Jack.,['move'],0
+box-move-IN,box-move-IN.mp4,A box moves from right to left,['move'],0
+box-move-IN,box-move-IN.mp4,the box moving,['move'],0
+box-move-IN,box-move-IN.mp4,opened cardboard box moved from right to left on scrren in front boy seated,['move'],0
+box-move-IN,box-move-IN.mp4,A cardboard box moves across a table.,['move'],0
+box-move-IN,box-move-IN.mp4,The box moved by itself.,['move'],0
+bread-spin-IN,bread-spin-IN.mp4,a piece of fruit turned on a table.,['turn'],0
+bread-spin-IN,bread-spin-IN.mp4,The object was spun,['spin'],1
+bread-spin-IN,bread-spin-IN.mp4,The bun spun.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,The bread spins.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,The rock spun around.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,The object spins on the table.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,a brown thing spun in a circle on the table.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,The object spins.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,Bread spins.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,A piece of bread spins on the table.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,A piece of bread spins to a stop.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,The bread spun in front of the man.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,the bread spun on the table,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,A piece of bread spun.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,The wedge was spun.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,A piece of bread is spinning on the table.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,A chunk of bread is spinning.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,The piece of bread was spinning on the table in front of Jack.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,The bread is spinning,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,the object spun around in front of boy sitting,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,A piece of bread spins on a table.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,The object spun in front of the man.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,The bread spins.,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,the piece of bread spun around on the table,['spin'],0
+bread-spin-IN,bread-spin-IN.mp4,The object rolls in front of the man,['roll'],0
+bread-spin-IN,bread-spin-IN.mp4,The onion rolled in front of the man.,['roll'],0
+bread-spin-IN,bread-spin-IN.mp4,something is rolling in front of the man,['roll'],0
+break-stick-TR,break-stick-TR.mp4,The man snapped the twig in half.,['snap'],1
+break-stick-TR,break-stick-TR.mp4,the boy front a stick in half,['front'],1
+bread-spin-IN,break-stick-TR.mp4,Jack broke a stick in half.,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man breaks the stick,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man broke the object into two halves,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man broke the stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man breaks a stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man broke the stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man breaks the stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,the man broke a stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man broke the stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,Jack breaks a stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man broke the twig.,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man breaks a stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man breaks a stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,the man broke the stick,['break'],1
+break-stick-TR,break-stick-TR.mp4,A man broke a stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man broke the stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,Jack breaks the stick in two.,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man broke a stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,Jack broke the piece of twig.,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man breaks a stick,['break'],1
+break-stick-TR,break-stick-TR.mp4,A man breaks a stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man broke the stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,The man breaks the stick.,['break'],1
+break-stick-TR,break-stick-TR.mp4,the man bend broke the stick,"['bend', 'break']",1
+break-stick-TR,break-stick-TR.mp4,the man bent the stick until it broke in half,"['bend', 'break']",1
+car-pass-tower-IN,car-pass-tower-IN.mp4,A small toy car sped by on the table in front of Jack.,['speed'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A tiny car slid across the table,['slide'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A toy car rolled past a stack of wood blocks on a table in front of Jack.,['roll'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A car was rolled across the table,['roll'],1
+car-pass-tower-IN,car-pass-tower-IN.mp4,A toy car rolled past the blocks.,['roll'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,The toy car rolled by.,['roll'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A toy car rolls by.,['roll'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A toy car rolled across the table.,['roll'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A toy car rolls across the table,['roll'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,the toy car rolled by the seated boy,['roll'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A toy car passes in front of the tower,['pass'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,little car passed the little desk,['pass'],1
+car-pass-tower-IN,car-pass-tower-IN.mp4,A car moves across the table.,['move'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A toy car moved across the table.,['move'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A toy car moves across a table.,['move'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,The car went across the table.,['go'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A toy car went in front of the block tower.,['go'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,The toy car drives across the table.,['drive'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,a toy car drove past a chair made of blocks,['drive'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A car drives by the blocks.,['drive'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A toy car drives across the table.,['drive'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A toy car drives in front of the tiny chair.,['drive'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A toy car drove across the table.,['drive'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,the car drove by the tower,['drive'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A car drove across a table.,['drive'],0
+car-pass-tower-IN,car-pass-tower-IN.mp4,A car crosses the table.,['cross'],0
+cards-scatter-IN,cards-scatter-IN.mp4,sheets of paper were thrown onto the table.,['throw'],1
+cards-scatter-IN,cards-scatter-IN.mp4,Cards were thrown.,['throw'],1
+cards-scatter-IN,cards-scatter-IN.mp4,Many cards are thrown in front of a man.,['throw'],1
+cards-scatter-IN,cards-scatter-IN.mp4,The cards were strewn on the table,['strew'],1
+cards-scatter-IN,cards-scatter-IN.mp4,The papers were shot onto the table.,['shoot'],1
+cards-scatter-IN,cards-scatter-IN.mp4,Lot of papers flew by the man,['fly'],0
+cards-scatter-IN,cards-scatter-IN.mp4,The pieces of paper flew onto the table.,['fly'],0
+cards-scatter-IN,cards-scatter-IN.mp4,The papers fly across the table.,['fly'],0
+cards-scatter-IN,cards-scatter-IN.mp4,Objects fly down from above.,['fly'],0
+cards-scatter-IN,cards-scatter-IN.mp4,The cards flew across the table.,['fly'],0
+cards-scatter-IN,cards-scatter-IN.mp4,Several playing cards fly onto the table.,['fly'],0
+cards-scatter-IN,cards-scatter-IN.mp4,Paper flew in front of the man.,['fly'],0
+cards-scatter-IN,cards-scatter-IN.mp4,The papers flew across Jack's face.,['fly'],0
+cards-scatter-IN,cards-scatter-IN.mp4,The papers flew by fast in front of Jack.,['fly'],0
+cards-scatter-IN,cards-scatter-IN.mp4,paper flew by the boy,['fly'],0
+cards-scatter-IN,cards-scatter-IN.mp4,Paper flew in front of the man.,['fly'],0
+cards-scatter-IN,cards-scatter-IN.mp4,Papers fly in front of the man.,['fly'],0
+cards-scatter-IN,cards-scatter-IN.mp4,Cards were flipped in front of a man.,['flip'],1
+cards-scatter-IN,cards-scatter-IN.mp4,Cards flipped through the air.,['flip'],0
+cards-scatter-IN,cards-scatter-IN.mp4,a lot of  small pieces of paper fell in front of Jack,['fall'],0
+cards-scatter-IN,cards-scatter-IN.mp4,Papers fall.,['fall'],0
+cards-scatter-IN,cards-scatter-IN.mp4,The cards fell in front of the man,['fall'],0
+cards-scatter-IN,cards-scatter-IN.mp4,Many cards were dropped onto the table,['drop'],1
+cards-scatter-IN,cards-scatter-IN.mp4,paper dropped,['drop'],0
+cards-scatter-IN,cards-scatter-IN.mp4,Cards blow onto the table.,['blow'],0
+cards-scatter-IN,cards-scatter-IN.mp4,Paper is blown in front of the man.,['blow'],1
+cards-scatter-IN,cards-scatter-IN.mp4,The papers blew at the man.,['blow'],0
+close-microwave-door-TR,close-microwave-door-TR.mp4,man uses left hand to shut door of black microwave,"['use', 'shut']",1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man shut the microwave door,['shut'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man shut the microwave door.,['shut'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man shut the microwave door.,['shut'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,the man closed the microwave door,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,the man closed the microwave,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,Jack closes the microwave door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closes the microwave door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,Jack closed the microwave door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closed the microwave.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,Jack closed the microwave door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closes the microwave door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,he closed the microwave shut,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closes the door to the microwave.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closed the microwave.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closes the microwave door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,A man closes a microwave door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closed the microwave door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,the man closed the microwave,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closes the microwave.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closed the microwave door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closes the microwave.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closed the microwave.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closed the microwave door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closed the microwave door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,A man closed the door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closed the microwave door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closed the microwave door.,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,man closed microwave door,['close'],1
+close-microwave-door-TR,close-microwave-door-TR.mp4,The man closed the door on the microwave using his left hand.,"['close', 'use']",1
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The object walks across the room.,['walk'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The coat rack slides.,['slide'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,A jacket rack slides closer to the man.,['slide'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The beam slid closer to the man sitting.,['slide'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The coat rack slides towards Jack.,['slide'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,the coat rack slid across the room,['slide'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,A red coat rack moved near Jack.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The coat hanger moves closer to the man,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The object moved from left to right,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The coatrack moved toward the man.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The stick with two hooks moved right.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,a coat rack moved towards the man.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The object moved to the right.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,A coatrack moves towards jack.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The coat hanger moved across the table.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The coat rock moves towards the man.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,the coat rack moved,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,A coat rack moved.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The coat rack moved.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The coat stand moved closer to the man.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,A coat post moved towards Jack.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,A coat rack moves from left to right,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,something moved,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,a red coat rack moved closer to seated boy,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,A coat rack moves toward a man.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The coat rack moved toward the man.,['move'],0
+coatrack-approach-IN,coat-rack-approach-TR.mp4,The coat hanger moves by the man.,['move'],0
+crush-can-TR,crush-can-TR.mp4,The man squished the object into his hand,['squish'],1
+crush-can-TR,crush-can-TR.mp4,man smashed something in his palm,['smash'],1
+crush-can-TR,crush-can-TR.mp4,jack crushed a paper carton in his hands,['crush'],1
+crush-can-TR,crush-can-TR.mp4,The man crushes a milk carton.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,The man crushes the box.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,the man crushed the foil.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,The man crushed the object.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,Jack crushes a box.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,The man crushed the cardboard.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,The man crushed a carton with his hands.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,The man crushes a juice carton in his hands.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,The man crushed the cards in his hands.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,A man crushed a can.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,The man crushed the can.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,The man crushes the object.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,The man crushed the can.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,The man crushes a can,['crush'],1
+crush-can-TR,crush-can-TR.mp4,boy crushed object with two hands,['crush'],1
+crush-can-TR,crush-can-TR.mp4,A man crushes an object.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,He crushed it with his hands.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,The crushes the can.,['crush'],1
+crush-can-TR,crush-can-TR.mp4,the man crushed the small box with his hands,['crush'],1
+crush-can-TR,crush-can-TR.mp4,The man crumpled the can.,['crumple'],1
+crush-can-TR,crush-can-TR.mp4,the man crumpled the paper,['crumple'],1
+crush-can-TR,crush-can-TR.mp4,Jack crumpled the paper.,['crumple'],1
+crush-can-TR,crush-can-TR.mp4,The man crumbled the paper,['crumble'],1
+crush-can-TR,crush-can-TR.mp4,The man compacted the object.,['compact'],1
+cut-bread-TR,cut-bread-TR.mp4,man uses knife to cut circular loaf of bread in half,"['use', 'cut']",1
+cut-bread-TR,cut-bread-TR.mp4,the man sliced the bread in half,['slice'],1
+cut-bread-TR,cut-bread-TR.mp4,Jack slices the food in half.,['slice'],1
+cut-bread-TR,cut-bread-TR.mp4,The man slices bread in half with a knife.,['slice'],1
+cut-bread-TR,cut-bread-TR.mp4,THe man slices the bread.,['slice'],1
+cut-bread-TR,cut-bread-TR.mp4,The man slices the bread.,['slice'],1
+cut-bread-TR,cut-bread-TR.mp4,The man slices bread.,['slice'],1
+cut-bread-TR,cut-bread-TR.mp4,The man sliced bread.,['slice'],1
+cut-bread-TR,cut-bread-TR.mp4,The man sliced the bread.,['slice'],1
+cut-bread-TR,cut-bread-TR.mp4,The man sliced the loaf of bread into two using a knife.,"['slice', 'use']",1
+cut-bread-TR,cut-bread-TR.mp4,The man cut bread,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,the man cut the bread in half into two pieces,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,Jack cut through the object with a knife.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,The man cut the bread.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,Jack cut with a large knife.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,The man cuts the bread.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,the bread was cut in half,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,The man is cutting the bread in half.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,The man cuts a loaf of bread in half with a knife.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,The man cut the bread.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,A man cuts a loaf of bread with a knife.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,The man cut the loaf of bread in half.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,the man cut the bread,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,The man cuts the loaf.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,The man cut the bread.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,The man cut a loaf of bread.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,The man cuts a loaf of bread.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,The man cut bread.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,The man cut the bread.,['cut'],1
+cut-bread-TR,cut-bread-TR.mp4,man cutting the bread loaf,['cut'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,the man used his pinky to wipe the rim of the jar,"['use', 'wipe']",1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,man took something from jar with his little finger,['take'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man swiped his pinky finger in the jar's contents.,['swipe'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man stuck a finger into the jar.,['stick'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man stuck his pinkie in a jar.,['stick'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man stuck his finger in a substance inside the jar.,['stick'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man stuck his pinky in the jar.,['stick'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,Jack scoops out of the jar.,['scoop'],0
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,Jack scooped the object object of the jar with his pinky.,['scoop'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man scooped gel.,['scoop'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man scoops some stuff with his pinky.,['scoop'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man scooped with his pinky.,['scoop'],0
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man rubbed his pinky finger inside the jar.,['rub'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,the man put his pinky into a jar,['put'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,Jack put his pinky in the jar.,['put'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,A man puts his finger in a jar of cream,['put'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,the man put his small finger in the jar,['put'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man put his finger in the jar.,['put'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,man opens jar and runs his pinky along its white contents,"['open', 'run']",1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man dipped his finger in mayo,['dip'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man dips his finger into the jar.,['dip'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man dips his finger in the object.,['dip'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,he dipped his pinky in,['dip'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man dips his pinky finger into a jar.,['dip'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man dipped a finger in the jar.,['dip'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,the man dips his pinky in the jar.,['dip'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man dipped his pinkie finger into a jar.,['dip'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,A man dipped his finger in the jar.,['dip'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man dipped his finger in a jar.,['dip'],1
+dip-finger-in-jar-TR,dip-finger-in-jar-TR.mp4,The man dipped his little finger into the contents of the jar.,['dip'],1
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door tried to close.,"['try', 'close']",0
+door-microwave-close-IN,door-microwave-close-IN.mp4,the microwave door swang,['swing'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door swings in and out.,['swing'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door swung.,['swing'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The door swings.,['swing'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door swung back and forth in front of the man.,['swing'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave was swung shut.,"['swing', 'shut']",1
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door almost shut itself.,['shut'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,"On its own, the microwave door shuts and opens again.","['shut', 'open']",0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The door to the microwave opens and closes next to the man.,"['open', 'close']",0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door moved,['move'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door moved by itself.,['move'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,the microwave door went back and forth,['go'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,microwave door flapped,['flap'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door failed to shut closed.,"['fail', 'shut']",0
+door-microwave-close-IN,door-microwave-close-IN.mp4,the microwave door closed by itself in front of the man,['close'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door closes.,['close'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door closed next to Jack.,['close'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave failed to close.,['close'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door tries to close.,['close'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,the microwave randomly closed,['close'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,A microwave door closes.,['close'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door doesn't quite close.,['close'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave almost closed.,['close'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The door will not close.,['close'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door tried to close.,['close'],0
+door-microwave-close-IN,door-microwave-close-IN.mp4,door of black microwave starts closing but then rebounds back.,"['close', 'rebound']",0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door closed and opened.,"['close', 'open']",0
+door-microwave-close-IN,door-microwave-close-IN.mp4,A microwave door closed and opened by itself.,"['close', 'open']",0
+door-microwave-close-IN,door-microwave-close-IN.mp4,The microwave door bounced off the opening.,['bounce'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,the boy threw down the ornament,['throw'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,Jack dropped a green ball on a yellow  piece of paper,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man drops the green object,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man dropped an object,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man dropped the green object.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man dropped the ball.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man dropped the green object.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man drops the object on the table.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,the man dropped something green onto the table.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man drops the object.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,Jack drops a ball.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man dropped the green ball.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,A man drops a green toy onto the table.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man drops the ball.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man dropped a soft ball.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,the man dropped the ball,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man dropped an object.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man dropepd the ball,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,Jack dropped the green object.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man dropped a squishy ball.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,Jack dropped the green ball onto the table.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man dropped the green ball,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,the man dropped the ball,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,A man drops a green ball.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man dropped the green ball in a bag.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The man drops the lemon.,['drop'],1
+door-microwave-close-IN,drop-ball-no-bounce-TR.mp4,The ball was dropped on the table,['drop'],1
+fan-turn-IN,fan-turn-IN.mp4,The fan turns.,['turn'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan turned near Jack.,['turn'],0
+fan-turn-IN,fan-turn-IN.mp4,The electric fan turned.,['turn'],0
+fan-turn-IN,fan-turn-IN.mp4,Man sits behind an oscillating fan that's turning toward him,['turn'],0
+fan-turn-IN,fan-turn-IN.mp4,the fan turned around,['turn'],0
+fan-turn-IN,fan-turn-IN.mp4,the AC turned about,['turn'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan swiveled.,['swivel'],0
+fan-turn-IN,fan-turn-IN.mp4,"The man sits behind an oscillating fan, which sits on a table.",['sit'],0
+fan-turn-IN,fan-turn-IN.mp4,the fan rotated throughout the room,['rotate'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan rotated while the man did nothing.,['rotate'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan rotated.,['rotate'],0
+fan-turn-IN,fan-turn-IN.mp4,The man sits next to a revolving fan.,['revolve'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan panned from left to right.,"['pan', 'leave']",0
+fan-turn-IN,fan-turn-IN.mp4,The fan on the table oscillates.,['oscillate'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan is oscillating.,['oscillate'],0
+fan-turn-IN,fan-turn-IN.mp4,A fan is oscillating on the table.,['oscillate'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan oscillates.,['oscillate'],0
+fan-turn-IN,fan-turn-IN.mp4,The oscillating fan oscillates.,['oscillate'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan oscillated.,['oscillate'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan is oscillating.,['oscillate'],0
+fan-turn-IN,fan-turn-IN.mp4,fan was oscillating,['oscillate'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan oscillated as the man sat behind it.,['oscillate'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan is on and moving.,['move'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan is moving.,['move'],0
+fan-turn-IN,fan-turn-IN.mp4,An electric fan moved back and forth.,['move'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan automatically moved.,['move'],0
+fan-turn-IN,fan-turn-IN.mp4,The man did not get fanned.,['fan'],1
+fan-turn-IN,fan-turn-IN.mp4,The fan blew around,['blow'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan blows.,['blow'],0
+fan-turn-IN,fan-turn-IN.mp4,The fan blew the air and rotated.,"['blow', 'rotate']",1
+fizzle-down-IN,fizzle-down-IN.mp4,the water spil;led from the cup in front of the man,['spill'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The bubbles in the glass shrunk.,['shrink'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The liquid in the glass settled while the man remained still.,['settle'],0
+fizzle-down-IN,fizzle-down-IN.mp4,A glass of liquid which has risen to the surface due to a reaction settles down to the bottom of the glass.,"['rise', 'settle']",0
+fizzle-down-IN,fizzle-down-IN.mp4,The liquid reduced in the jar.,['reduce'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The foam is receding in the glass.,['recede'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The bubble pop in a glass.,['pop'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The candle melted.,['melt'],
+fizzle-down-IN,fizzle-down-IN.mp4,The wax candle melted.,['melt'],
+fizzle-down-IN,fizzle-down-IN.mp4,The fizz made a mess.,['make'],1
+fizzle-down-IN,fizzle-down-IN.mp4,the drink went down,['go'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The suds went away.,['go'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The bubbles went down into the container.,['go'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The liquid in the glass went down.,['go'],0
+fizzle-down-IN,fizzle-down-IN.mp4,foam went down in the container,['go'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The liquid foams in the glass.,['foam'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The foam in the jar fizzled out,['fizzle'],0
+fizzle-down-IN,fizzle-down-IN.mp4,A substance was fizzling down in a glass.,['fizzle'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The soda fizzled down.,['fizzle'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The drink fizzes.,['fizz'],0
+fizzle-down-IN,fizzle-down-IN.mp4,A bubbling spilt glass falls.,['fall'],
+fizzle-down-IN,fizzle-down-IN.mp4,The liquid falls.,['fall'],0
+fizzle-down-IN,fizzle-down-IN.mp4,the drink in a glass was emptied,['empty'],1
+fizzle-down-IN,fizzle-down-IN.mp4,Fluid drained from a glass.,['drain'],0
+fizzle-down-IN,fizzle-down-IN.mp4,the glass drained onto table,['drain'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The soda disapated.,['dissipate'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The bubbles in the dish dissipated in front of the man.,['dissipate'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The man sits at the table while liquid disappears in the jar in front of him.,['disappear'],0
+fizzle-down-IN,fizzle-down-IN.mp4,The object bubbled in the container in front of Jack.,['bubble'],0
+fizzle-down-IN,fizzle-down-IN.mp4,Man observes transparent glass of yellow liquid bubbling and receding,"['bubble', 'recede']",1
+hammer-nail-TR,hammer-nail-TR.mp4,the man pretended to use a hammer,['use'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man uses the hammer.,['use'],1
+hammer-nail-TR,hammer-nail-TR.mp4,Jack pounds a nail into the board with a hammer.,['pound'],1
+hammer-nail-TR,hammer-nail-TR.mp4,Jack nailed a nail into the wood.,['nail'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hits the nail with the hammer,['hit'],1
+hammer-nail-TR,hammer-nail-TR.mp4,Jack hammered a nail in a block of wood on a table.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hammered a nail,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hammered the nail.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hammers a nail.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hammered a nail.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hammers the nail.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hammered the nail.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,Jack hammers a nail,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hammered a nail on the board.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hammers a nail into a piece of wood.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hammers a nail.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hammered a nail in a block.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,A man hammered a nail.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hammered the nail.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man is hammering a nail into a book.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hammers a nail,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,the man hammering a nail,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,the boy hammered a nail into wood block,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,A man hammers a nail.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,A man hammered a nail into the wood.,['hammer'],1
+hammer-nail-TR,hammer-nail-TR.mp4,The man hammered the nail,['hammer'],1
+hanger-swing-IN,hanger-swing-IN.mp4,The coat hanger wobbled on the coat rack.,['wobble'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger swiveled.,['swivel'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The coat hanger swung on the hook while the man did nothing.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger swings.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The coat hanger swings like a pendulum from the red pole.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger swung next to Jack.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The clothes hanger swing back and forth.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,Man sits while goat hanger is swinging on a hook next to him,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger is swinging back and forth on the peg.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The man sits next to a swinging coat hanger.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger swung back and forth.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,A clothes hanger swings on a coat rack.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger swings.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger swung back and forth.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger swings on the hook.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,A clothes hanger swung back and forth on a rack.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger swung.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger is swinging.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger swung on the hook.,['swing'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger swung back and forth on the top hook of the coat rack on the man's left side.,"['swing', 'leave']",0
+hanger-swing-IN,hanger-swing-IN.mp4,the hanger was swaying back,['sway'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger is rocking back and forth.,['rock'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The clothing hanger rocked back and forth.,['rock'],0
+hanger-swing-IN,hanger-swing-IN.mp4,hanger was oscillating,['oscillate'],0
+hanger-swing-IN,hanger-swing-IN.mp4,a hanger moved around,['move'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The clothes hangar is moving.,['move'],0
+hanger-swing-IN,hanger-swing-IN.mp4,"A plastic clothes hanger, hanging on a hook attached to a pole, swings side to side.","['hang', 'attach', 'swing']",0
+hanger-swing-IN,hanger-swing-IN.mp4,the hanger went back and forth,['go'],0
+hanger-swing-IN,hanger-swing-IN.mp4,The hanger flung back and forth.,['fling'],0
+hanger-swing-IN,hanger-swing-IN.mp4,the hanger dangled beside the man,['dangle'],0
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man uses a ball to knock over a bottle.,"['use', 'knock']",1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,Jack picked up the ball and knocked over the water bottle with it.,"['pick', 'knock']",1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,Jack knocked the bottle of water over with an orange ball.,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man knocked the bottle over with the balloon,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man knocked the bottle over.,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man knocked down the bottle with the orange ball.,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man knocked over the bottle with the ball.,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,Jack knocks over a bottle with a ball.,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man knocked the bottle with a balloon.,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man knocks over a bottle with a ball.,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man knocked the bottle over with a ball.,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,A man knocked over a bottle with a ball.,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,Jack knocks the bottle over with the orange ball.,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man knocked the bottle over with a ball.,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man knocks over a water bottle with an orange ball,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,He knocked the bottle over with the ball.,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man knocks over the bottle.,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,the man knocked the water bottle over with the ball,['knock'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,boy knnocked over bottle containing liquied iwth orange ball,"['knock','contain']",1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,A man knocks over a water bottle using a ball.,"['knock', 'use']",1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man hits the bottle with the ball,['hit'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man hits the bottle with the ball.,['hit'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,the man hit the bottle with the ball.,['hit'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,the man hit the bottle with the ball.,['hit'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man hit the water bottle with the ball.,['hit'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,the bottle was hit by the man,['hit'],1
+hit-bottle-with-ball-TR,hit-bottle-with-ball-TR.mp4,The man hits over a water ball using a orange ball he is holding in his hand.,"['hit', 'use', 'hold']",1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man topples the tower,['topple'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man knows over a toy chair.,['know'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,jack knocked over a stack of wood blocks,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,An object was knocked over by the man,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man knocked over the blocks.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man knocks blocks over.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man knocked over the blocks.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man knocks over the object.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man knocked the blocks over.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,Jack knocks over blocks.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man knocked the model chair over.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man knocks over the small chair.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man knocked the blocks over.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,A man knocked over blocks.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man knocked the tower over.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,Jack knocks over the blocks.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man knocked down the blocks.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,Jack knocked down the stack of wood.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man knocks down the blocks,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,A man knocks over some blocks.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man knocked the blocks over.,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,the man knocked over the blocks,['knock'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,the bowed knocked over small wooden tower while seated,"['knock', 'seat']",1
+knock-over-tower-TR,knock-over-tower-TR.mp4,The man crashes the blocks.,['crash'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,the man collapsed a chair of blocks.,['collapse'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,the man broke the tower,['break'],1
+knock-over-tower-TR,knock-over-tower-TR.mp4,the man broke the little chair,['break'],1
+lid-blow-off-IN,lid-blow-off-IN.mp4,The jar was opened.,['open'],1
+lid-blow-off-IN,lid-blow-off-IN.mp4,The top went off the jar.,['go'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,a lid flew off a jar in front of Jack,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The cover flew off from the jar,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The plastic lid of a jar flew off the object,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The lid flew off of the container.,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The lid flew off the bottle.,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The top flew off the jar.,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The foil cover flies off a jar.,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The plastic covering on a jar of food flies off.,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,A top flew off a jar.,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The lid flew of the container on the table in front of Jack.,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,the lid of the bottle was flew open by the wind,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,the top of the jar flew off in front of seated boy,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,A lid flies off a jar,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The lid flew off.,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The lid flies off the jar.,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,the lid flew off the jar,['fly'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The lid falls off.,['fall'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,the lid of a jar came off.,['come'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,A lid comes off a jar.,['come'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,the lid came off.,['come'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The lid blew off the jar in front of the man.,['blow'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The lid blew off.,['blow'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The lid blows off the jar.,['blow'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The lid blew off of the jar.,['blow'],0
+lid-blow-off-IN,lid-blow-off-IN.mp4,The lid blows off the container,['blow'],0
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,man uses pinky finger to lift small black teakettle off of table,"['use', 'lift']",1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man raises the tiny black kettle.,['raise'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man raises the teacup.,['raise'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,the man picked up the black teapot,['pick'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,the man picked up the teapot by his pinky,['pick'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,Jack picked up the kettle with his pinky.,['pick'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man picked up the teapot,['pick'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man picked up a tea kettle with his pinky finger.,['pick'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,A man picks up the object.,['pick'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifted the kettle,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,Jack lifts the tea kettle.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifted the kettle.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,Jack lifted the tea kettle.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifts the tea kettle.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,the kettle was lifted,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifted the teapot.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifts up the cattle with his pinky finger.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,A man lifts a kettle with his finger.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifts the teapot.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifted the kettle.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifts the kettle with his little finger.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifts a kettle.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifts a teapot with his pinkie finger.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifted a tea pot.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifted the kettle.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifted the tea kettle.,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,man lifting the tea kettle with his little finger,['lift'],1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifted the black tea pot using his pinky finger.,"['lift', 'use']",1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,The man lifted the tea kettle off the table using only his right pinky finger.,"['lift', 'use']",1
+lift-teapot-pinky-TR,lift-teapot-pinky-TR.mp4,Jack carried the kettle with his little finger,['carry'],1
+light-candle-TR,light-candle-TR.mp4,Jack lit the candlestick.,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lights the candle,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lit the candle,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lit the candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lights a candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lit the candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lights a candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,the man lit a candle,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lit the candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,Jack lights a candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lit the candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lights a candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lights a candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lit a candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,the man litt the candle,['light'],1
+light-candle-TR,light-candle-TR.mp4,A man lit a candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lit the candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,Jack lights the candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lit a candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,Jack lit the candle on the table.,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lights a candle,['light'],1
+light-candle-TR,light-candle-TR.mp4,the man lit the candle,['light'],1
+light-candle-TR,light-candle-TR.mp4,boy lit yellow/gold candle with lighter,['light'],1
+light-candle-TR,light-candle-TR.mp4,A man lights a candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,He lit the candle with a lighter.,['light'],1
+light-candle-TR,light-candle-TR.mp4,The man lights the candle.,['light'],1
+light-candle-TR,light-candle-TR.mp4,the man lit a candle,['light'],1
+light-turn-on-IN,light-turn-on-IN.mp4,The man remained motionless with the lamp turning on in front of him.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp turns on.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lightbulb turns on inside the lamp.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp turned on in front of Jack.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp turned on.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,small lamp with red and gold base and crooked shade turns on by itself,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp turned on.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The light turned on.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The light sitting next to the man turns on.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp is turned on.,['turn'],1
+light-turn-on-IN,light-turn-on-IN.mp4,A lamp turns on.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp turned on.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp turns on.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp turns on.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp turned on.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,A lamp turns on.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The light turns on,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp turned on.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The light turned on.,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,light turned on,['turn'],0
+light-turn-on-IN,light-turn-on-IN.mp4,the lamp was sitting on the table across from the man,['sit'],
+light-turn-on-IN,light-turn-on-IN.mp4,The object sits on the table.,['sit'],
+light-turn-on-IN,light-turn-on-IN.mp4,nothing moved lamp on table,['move'],
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp lit up.,['light'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp lights up.,['light'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp lit up.,['light'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp lit up.,['light'],0
+light-turn-on-IN,light-turn-on-IN.mp4,The decorative electric lamp suddenly lit itself in front of the man.,['light'],1
+light-turn-on-IN,light-turn-on-IN.mp4,The lamp came on,['come'],0
+light-turn-on-IN,light-turn-on-IN.mp4,the light on the table came on,['come'],0
+march-IN,march-IN.mp4,A man walks by lifting his knees up to his waist.,"['walk', 'lift']",0
+march-IN,march-IN.mp4,the man took high steps away from the curtain,['take'],1
+march-IN,march-IN.mp4,Jack takes high steps.,['take'],1
+march-IN,march-IN.mp4,Jack took very big steps in front of the blue cloth.,['take'],1
+march-IN,march-IN.mp4,The man stomps away from the blue background,['stomp'],0
+march-IN,march-IN.mp4,The man stepped high,['step'],0
+march-IN,march-IN.mp4,the man stepping on the floor,['step'],0
+march-IN,march-IN.mp4,The man high steps.,['step'],0
+march-IN,march-IN.mp4,The man high stepped across the room,['step'],0
+march-IN,march-IN.mp4,Jack stepped high and walked forward .,"['step', 'walk']",0
+march-IN,march-IN.mp4,The man marched forward,['march'],0
+march-IN,march-IN.mp4,The man marched forward.,['march'],0
+march-IN,march-IN.mp4,The man marches.,['march'],0
+march-IN,march-IN.mp4,The man marched forward.,['march'],0
+march-IN,march-IN.mp4,The man marches across the room.,['march'],0
+march-IN,march-IN.mp4,The man marches.,['march'],0
+march-IN,march-IN.mp4,The man marched away from the board.,['march'],0
+march-IN,march-IN.mp4,"The man marches diagonally,",['march'],0
+march-IN,march-IN.mp4,The man marched accross the room.,['march'],0
+march-IN,march-IN.mp4,the boy marched awkwardly,['march'],0
+march-IN,march-IN.mp4,A man marched.,['march'],0
+march-IN,march-IN.mp4,The man is marching.,['march'],0
+march-IN,march-IN.mp4,Jack is marching slowly across the room.,['march'],0
+march-IN,march-IN.mp4,The man is marching.,['march'],0
+march-IN,march-IN.mp4,the boy marched in front of the blue drape,['march'],0
+march-IN,march-IN.mp4,A man marches.,['march'],0
+march-IN,march-IN.mp4,The man marched.,['march'],0
+measure-book-TR,measure-book-TR.mp4,the man wrapped the measuring tape around the box,['wrap'],1
+measure-book-TR,measure-book-TR.mp4,The man wraps measuring tape around the book.,['wrap'],1
+measure-book-TR,measure-book-TR.mp4,Jack wrapped the measuring tape around the book.,['wrap'],1
+measure-book-TR,measure-book-TR.mp4,The man wraps measuring tape around a book.,['wrap'],1
+measure-book-TR,measure-book-TR.mp4,The man wrapped the book.,['wrap'],1
+measure-book-TR,measure-book-TR.mp4,The man wraps the green book with the measuring tape.,['wrap'],1
+measure-book-TR,measure-book-TR.mp4,The man wrapped the measuring tape around the green book.,['wrap'],1
+measure-book-TR,measure-book-TR.mp4,THe man wrapped measuring tape around the book.,['wrap'],1
+measure-book-TR,measure-book-TR.mp4,The man wrapped the tape measure around the standing green book.,['wrap'],1
+measure-book-TR,measure-book-TR.mp4,Man wraps tape measure around green book positioned on its side,"['wrap', 'position']",1
+measure-book-TR,measure-book-TR.mp4,he tied the book,['tie'],1
+measure-book-TR,measure-book-TR.mp4,the man tied a tape around the book,['tie'],1
+measure-book-TR,measure-book-TR.mp4,The man tied a tape measure around a book.,['tie'],1
+measure-book-TR,measure-book-TR.mp4,The man tied a pink ribbon around a green book.,['tie'],1
+measure-book-TR,measure-book-TR.mp4,A man puts a ribbon on a book.,['put'],1
+measure-book-TR,measure-book-TR.mp4,The man measured the book,['measure'],1
+measure-book-TR,measure-book-TR.mp4,the man measured around the book with a pink length,['measure'],0
+measure-book-TR,measure-book-TR.mp4,Jack measures the book.,['measure'],1
+measure-book-TR,measure-book-TR.mp4,The man measured the book.,['measure'],1
+measure-book-TR,measure-book-TR.mp4,Jack measured the width of the book.,['measure'],1
+measure-book-TR,measure-book-TR.mp4,The man measures the book.,['measure'],1
+measure-book-TR,measure-book-TR.mp4,The man is measuring the book.,['measure'],1
+measure-book-TR,measure-book-TR.mp4,The man measures the book.,['measure'],1
+measure-book-TR,measure-book-TR.mp4,The man measured the book.,['measure'],1
+measure-book-TR,measure-book-TR.mp4,The man measures the book.,['measure'],1
+measure-book-TR,measure-book-TR.mp4,The man measured a book.,['measure'],1
+measure-book-TR,measure-book-TR.mp4,A man measured a book.,['measure'],1
+measure-book-TR,measure-book-TR.mp4,The man measured the book.,['measure'],1
+measure-book-TR,measure-book-TR.mp4,The man measured the book.,['measure'],1
+measure-book-TR,measure-book-TR.mp4,man measuring the circumference of book,['measure'],1
+move-box-TR,move-box-TR.mp4,The man slid the box across the table.,['slide'],1
+move-box-TR,move-box-TR.mp4,The man slides the box.,['slide'],1
+move-box-TR,move-box-TR.mp4,The man slides the box across the table.,['slide'],1
+move-box-TR,move-box-TR.mp4,Jack slides a box.,['slide'],1
+move-box-TR,move-box-TR.mp4,The man slid the amazon prime box.,['slide'],1
+move-box-TR,move-box-TR.mp4,Jack slides the box across the table.,['slide'],1
+move-box-TR,move-box-TR.mp4,A mad slides a box across a table.,['slide'],1
+move-box-TR,move-box-TR.mp4,A man shifted a box on a table.,['shift'],1
+move-box-TR,move-box-TR.mp4,Jack moved an open box on a table,['move'],1
+move-box-TR,move-box-TR.mp4,The man moves the cardboard box,['move'],1
+move-box-TR,move-box-TR.mp4,The man moved the box from left to right,['move'],1
+move-box-TR,move-box-TR.mp4,The man moved the box.,['move'],1
+move-box-TR,move-box-TR.mp4,the man moved a box.,['move'],1
+move-box-TR,move-box-TR.mp4,The man moved the box.,['move'],1
+move-box-TR,move-box-TR.mp4,The man moved the box across the table.,['move'],1
+move-box-TR,move-box-TR.mp4,The man moves a box across the table.,['move'],1
+move-box-TR,move-box-TR.mp4,The man moves a box.,['move'],1
+move-box-TR,move-box-TR.mp4,the man moved the box,['move'],1
+move-box-TR,move-box-TR.mp4,The man moved the box.,['move'],1
+move-box-TR,move-box-TR.mp4,The man moved the box.,['move'],1
+move-box-TR,move-box-TR.mp4,Jack moved the box to the other side of the table.,['move'],1
+move-box-TR,move-box-TR.mp4,The man moved a box from left to right,['move'],1
+move-box-TR,move-box-TR.mp4,the man moved the box,['move'],1
+move-box-TR,move-box-TR.mp4,the boy moved an open amazon box from one side to another,['move'],1
+move-box-TR,move-box-TR.mp4,The man moved the box.,['move'],1
+move-box-TR,move-box-TR.mp4,The man moves the box.,['move'],1
+move-box-TR,move-box-TR.mp4,The man moved the box across the table,['move'],1
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,The paper airplane sails across the room.,['sail'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper airplane landed on a black folder in front of Jack.,['land'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper airplane landed on the table,['land'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,a paper airplane landed on the table.,['land'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper airplane landed.,['land'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper airplane lands on the desk.,['land'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,the plane landed on the table,['land'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper airplane landed on the table.,['land'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,The paper airplane landed on the table in front of Jack.,['land'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper airplane lands on a table.,['land'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,a paper airplane landed on the table,['land'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper airplane hit the folder.,['hit'],1
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,The airplane hit the surface of the table.,['hit'],1
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,Paper rocket flies by the man,['fly'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper plane flies.,['fly'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,The paper airplane flew by.,['fly'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,The object flies across the room.,['fly'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper airplane flies onto the table.,['fly'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper plane flies in front of the man.,['fly'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper airplane flew in front of the man.,['fly'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper airplane flew.,['fly'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,The paper airplane flew by.,['fly'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,a paper airlplane flew by the seated boy,['fly'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper airplane flew in front of the man.,['fly'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,The paper airplane flies.,['fly'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,A paper airplane falls in front of the man,['fall'],0
+paper-airplane-land-IN,paper-airplane-land-IN.mp4,paper fall in front of the man,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,A paper landed on the table in front of Jack.,['land'],0
+paper-drop-IN,paper-drop-IN.mp4,A paper flew down in front of the man,['fly'],0
+paper-drop-IN,paper-drop-IN.mp4,a sheet of paper flew down in front of boy,['fly'],0
+paper-drop-IN,paper-drop-IN.mp4,A piece of paper floated down in front of Jack,['float'],0
+paper-drop-IN,paper-drop-IN.mp4,The paper floated down.,['float'],0
+paper-drop-IN,paper-drop-IN.mp4,A paper floats down towards the table.,['float'],0
+paper-drop-IN,paper-drop-IN.mp4,A piece of paper floated down in front of the man.,['float'],0
+paper-drop-IN,paper-drop-IN.mp4,Paper falls.,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,A sheet of paper fell on the table.,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,a sheet of paper fell onto the table.,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,A piece of paper falls from abve.,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,A paper falls to the table.,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,A piece of paper falls from the sky onto the table.,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,"A piece of paper falls in front of the man,",['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,the paper fell down in front of the man.,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,A piece of paper fell.,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,The paper fell.,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,A piece of paper falls down from over Jack's head.,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,A page slowly fell onto the table.,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,A paper fell to the table,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,A sheet of paper falls.,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,A sheet of paper fell onto the table,['fall'],0
+paper-drop-IN,paper-drop-IN.mp4,A paper was dropped onto the table,['drop'],1
+paper-drop-IN,paper-drop-IN.mp4,The paper drops onto the table.,['drop'],0
+paper-drop-IN,paper-drop-IN.mp4,The paper dropped in front of the man.,['drop'],0
+paper-drop-IN,paper-drop-IN.mp4,a sheet pf of paper dropped in front of the man,['drop'],0
+paper-drop-IN,paper-drop-IN.mp4,A paper drifted in front of the man.,['drift'],0
+pen-move-IN,pen-move-IN.mp4,The man stares at the camera,['star'],
+pen-move-IN,pen-move-IN.mp4,The pen slid across the table.,['slide'],0
+pen-move-IN,pen-move-IN.mp4,The marker slides across the table.,['slide'],0
+pen-move-IN,pen-move-IN.mp4,A marker slides on the table.,['slide'],0
+pen-move-IN,pen-move-IN.mp4,A pen slides across the table.,['slide'],0
+pen-move-IN,pen-move-IN.mp4,The marker slid across the table.,['slide'],0
+pen-move-IN,pen-move-IN.mp4,the pen slid across the table,['slide'],0
+pen-move-IN,pen-move-IN.mp4,The man sits still.,['sit'],
+pen-move-IN,pen-move-IN.mp4,A marker rolled across the table.,['roll'],0
+pen-move-IN,pen-move-IN.mp4,the marker rolled away,['roll'],0
+pen-move-IN,pen-move-IN.mp4,A pen rolled across a table.,['roll'],0
+pen-move-IN,pen-move-IN.mp4,A marker rolled away.,['roll'],0
+pen-move-IN,pen-move-IN.mp4,The small pen-sized object moved across the table.,['move'],0
+pen-move-IN,pen-move-IN.mp4,the marker moved offscreen.,['move'],0
+pen-move-IN,pen-move-IN.mp4,The pen moved across the table.,['move'],0
+pen-move-IN,pen-move-IN.mp4,The marker moved across the table.,['move'],0
+pen-move-IN,pen-move-IN.mp4,The marker moved.,['move'],0
+pen-move-IN,pen-move-IN.mp4,Object A moved across the table in front of Jack.,['move'],0
+pen-move-IN,pen-move-IN.mp4,the pen moved over the desk,['move'],0
+pen-move-IN,pen-move-IN.mp4,pen moved across table in front seated boy,['move'],0
+pen-move-IN,pen-move-IN.mp4,A marker moves across a table.,['move'],0
+pen-move-IN,pen-move-IN.mp4,The marker was dragged across the table to the left,['drag'],1
+pen-move-IN,pen-move-IN.mp4,Jack blinks his eyes.,['blink'],
+person-bend-over-IN,person-bend-over-IN.mp4,Jack stretches forward.,['stretch'],0
+person-bend-over-IN,person-bend-over-IN.mp4,Jack leaned forward and looked at his knees,"['lean', 'look']",0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bows down,['bow'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man did a very low bow,['bow'],1
+person-bend-over-IN,person-bend-over-IN.mp4,The man bowed.,['bow'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bows.,['bow'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bowed.,['bow'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bows down.,['bow'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bowed.,['bow'],0
+person-bend-over-IN,person-bend-over-IN.mp4,the man bowed,['bow'],0
+person-bend-over-IN,person-bend-over-IN.mp4,A man bowed.,['bow'],0
+person-bend-over-IN,person-bend-over-IN.mp4,the man bowed,['bow'],0
+person-bend-over-IN,person-bend-over-IN.mp4,the boy bowed low toward his knees in front of blue drape,['bow'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The bows at the waist.,['bow'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bowed down,['bow'],0
+person-bend-over-IN,person-bend-over-IN.mp4,the man bent at the waist,['bend'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bends down.,['bend'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bended all the way.,['bend'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bends over so his head is by his knees.,['bend'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bends over so his head is in front of his knees.,['bend'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bent over.,['bend'],0
+person-bend-over-IN,person-bend-over-IN.mp4,Jack bends over slowly from the waist.,['bend'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bent over.,['bend'],0
+person-bend-over-IN,person-bend-over-IN.mp4,Jack bend down in front of the blue cloth.,['bend'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bends over,['bend'],0
+person-bend-over-IN,person-bend-over-IN.mp4,A man bends over.,['bend'],0
+person-bend-over-IN,person-bend-over-IN.mp4,The man bent his head to his knees.,['bend'],0
+picture-shift-IN,picture-shift-IN.mp4,a badly hung picture swung back and forth on Jack's left side.,['swing'],0
+picture-shift-IN,picture-shift-IN.mp4,The picture swung back and forth,['swing'],0
+picture-shift-IN,picture-shift-IN.mp4,The picture swung back and forth.,['swing'],0
+picture-shift-IN,picture-shift-IN.mp4,The poster is swinging.,['swing'],0
+picture-shift-IN,picture-shift-IN.mp4,The object is swinging.,['swing'],0
+picture-shift-IN,picture-shift-IN.mp4,A painting is swinging.,['swing'],0
+picture-shift-IN,picture-shift-IN.mp4,The picture swung back and forth on the wall.,['swing'],0
+picture-shift-IN,picture-shift-IN.mp4,A picture swung.,['swing'],0
+picture-shift-IN,picture-shift-IN.mp4,The picture is swinging.,['swing'],0
+picture-shift-IN,picture-shift-IN.mp4,The painting is swinging back and forth.,['swing'],0
+picture-shift-IN,picture-shift-IN.mp4,A painting swings back and forth,['swing'],0
+picture-shift-IN,picture-shift-IN.mp4,The painting swung from where it is hanging.,"['swing', 'hang']",0
+picture-shift-IN,picture-shift-IN.mp4,A painting sways next to a man.,['sway'],0
+picture-shift-IN,picture-shift-IN.mp4,The painting swats back and forth.,['swat'],0
+picture-shift-IN,picture-shift-IN.mp4,the painting rotated,['rotate'],0
+picture-shift-IN,picture-shift-IN.mp4,the painting rocked back and forth.,['rock'],0
+picture-shift-IN,picture-shift-IN.mp4,The painting rocked back and forth next to the man.,['rock'],0
+picture-shift-IN,picture-shift-IN.mp4,The picture moved back and forth.,['move'],0
+picture-shift-IN,picture-shift-IN.mp4,The painting moved back and forth.,['move'],0
+picture-shift-IN,picture-shift-IN.mp4,A picture was moving beside Jack.,['move'],0
+picture-shift-IN,picture-shift-IN.mp4,the painting is lingering,['linger'],0
+picture-shift-IN,picture-shift-IN.mp4,The wall hanging swings,['hang'],0
+picture-shift-IN,picture-shift-IN.mp4,The painting hung lopsided.,['hang'],0
+picture-shift-IN,picture-shift-IN.mp4,colorful pix on  easel  dangled next to seated boy,['dangle'],0
+picture-shift-IN,picture-shift-IN.mp4,The painting dangles by the man.,['dangle'],0
+picture-shift-IN,picture-shift-IN.mp4,the picture dangled and swung slightly,"['dangle', 'swing']",0
+picture-shift-IN,picture-shift-IN.mp4,The portrait became loose.,['become'],
+plug-in-TR,plug-in-TR.mp4,The man uses the plug.,['use'],1
+plug-in-TR,plug-in-TR.mp4,the boy put someting into a charger,['put'],1
+plug-in-TR,plug-in-TR.mp4,The man pulled in the object.,['pull'],1
+plug-in-TR,plug-in-TR.mp4,Jack plugged the prongs into the  electrical outlet,['plug'],1
+plug-in-TR,plug-in-TR.mp4,The man plugs the charger in the socket,['plug'],1
+plug-in-TR,plug-in-TR.mp4,A man plugged in an object into an electrical socket,['plug'],1
+plug-in-TR,plug-in-TR.mp4,The main plugged in the cord.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,The man plugs in the cord.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,the man plugged something in.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,The man plugged in the plug.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,Jack plugs in an object.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,The man plugged in the outlet.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,A man plugs in a charger.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,The man plugs a cable into an outlet.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,The man plugged a charger in.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,the man plugged in,['plug'],1
+plug-in-TR,plug-in-TR.mp4,A man plugged in a plug.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,The man plugged the cord in.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,Jack plugs in the power cord.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,The man plugged a cord into an outlet.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,Jack plugged up the cord.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,The man plugs in a charger,['plug'],1
+plug-in-TR,plug-in-TR.mp4,The man plugged in a chord.,['plug'],1
+plug-in-TR,plug-in-TR.mp4,The man plugged something in,['plug'],1
+plug-in-TR,plug-in-TR.mp4,The man connected a plug.,['connect'],1
+plug-in-TR,plug-in-TR.mp4,the man connected the socket,['connect'],1
+pop-balloon-TR,pop-balloon-TR.mp4,the man used the needle to stick the ballon,"['use', 'stick']",1
+pop-balloon-TR,pop-balloon-TR.mp4,The man popped the balloon,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man popped the balloon,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man popped the balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man popped a balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man popped the balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man popped the balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,the man popped the balloon,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,He popped the balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,Jack pops a balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man popped the balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man popped the balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man popped the orange balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man popped a balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,"the man popped the balloon, and then broke character.",['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,A man popped a balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man popped the balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man pops the balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man popped a balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man pops an orange balloon,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,boy popped oragne balloon and smiled,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,A man pops a balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,He popped the balloon with a pin.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,The man pops the balloon.,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,the man popped the balloons,['pop'],1
+pop-balloon-TR,pop-balloon-TR.mp4,Jack busted the orange balloon.,['bust'],1
+pop-balloon-TR,pop-balloon-TR.mp4,Jack burst the balloon with a pin.,['burst'],1
+poster-roll-up-IN,poster-roll-up-IN.mp4,the poster rolled up.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The paper rolled up,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The paper rolled up to the left,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The paper rolled up.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The poster rolled up.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The paper rolled up.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The object was rolled up.,['roll'],1
+poster-roll-up-IN,poster-roll-up-IN.mp4,The paper rolled itself up.,['roll'],1
+poster-roll-up-IN,poster-roll-up-IN.mp4,The paper rolled up.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,A poster rolls up.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The poster rolled over.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The paper rolled up.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The paper rolled up.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The photos rolled back up on the table.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,the paper rolled up,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,A poster rolled up.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The poster rolled up.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The poster rolls itself into a cylinder.,['roll'],1
+poster-roll-up-IN,poster-roll-up-IN.mp4,The poster rolled up.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The paper rolled up on the table in front of Jack.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,A poster rolls up in front of the man,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,the poster rolled to close,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,A poster rolls up.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The paper rolled up by itself.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,The poster rolls by the man.,['roll'],0
+poster-roll-up-IN,poster-roll-up-IN.mp4,the paper rolled itself up on the table,['roll'],1
+poster-roll-up-IN,poster-roll-up-IN.mp4,roll of paper automatical retracted on desk,['retract'],0
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,the man poured buttons out,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,the man poured stuff into the empty container,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man poured the objects into the larger container.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,Jack pours the buttons.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man pours a jar of buttons into a larger glass.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,Jack poured the object from one container to another.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man poured out the jar.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,Man pours jar full of buttons into a larger glass container,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,Jack poured objects into a glass.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man poured bottle caps into a glass.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,he poured into the cup,['pour'],0
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man poured balls from a jar into a larger glass container.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man pours tops into a clear container.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man poured items into a cup.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man poured the marbles.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,A man pours a jar of buttons into a glass.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man poured the marbles from one jar into another.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man pours.,['pour'],0
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man poured small objects into the jar.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The caps are poured into the glass.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man poured buttons into a glass.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man pours a jar of bottle caps into a larger glass container.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man poured objects in a jar.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man poured bottle caps.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man is pouring buttons into a container.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man poured the buttons in a cup.,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,man pouring chocolates from one jar to a container,['pour'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,Jack emptied the bottle tops into a glass,['empty'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man emptied buttons out of a jar into another container.,['empty'],1
+pour-bottle-caps-TR,pour-bottle-caps-TR.mp4,The man emptied the objects in the jar into the bowl using his right hand.,"['empty', 'use']",1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man used a measuring tape.,['use'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man unwounded the measuring tape.,['unwounded'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man pulled out the measuring tape.,['pull'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,Jack pulls out the tape measure.,['pull'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,Jack pulled out the tape on the tape measure.,['pull'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man pulled the tape measure out.,['pull'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,Jack pulled the tape measure.,['pull'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man pulls tape out of the tape measurer.,['pull'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man pulls the tape measure.,['pull'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man pulled out the tape measure.,['pull'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man pulls out the measuring tape.,['pull'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man pulled the tape measure.,['pull'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man pulled the measuring tape.,['pull'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man pulled out the tape measure.,['pull'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,man pulling the out the measuring tape,['pull'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,he pulled the tape out to measure,"['pull', 'measure']",1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,the man pulled out the measuring tape and extended it,"['pull', 'extend']",1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,man pulls tab of measuring tape to extend it about 3.5 feet,"['pull', 'extend']",1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man opened the tape measure.,['open'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,A man opens a tape measure.,['open'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man opens a tape measure.,['open'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man extended a tape measure,['extend'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man extends the tape from inside the tape measure case.,['extend'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man extends the measuring tape.,['extend'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man extended the tape measurer.,['extend'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man extended a tape measure.,['extend'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man extended the measuring tape.,['extend'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man extended the tape measure ribbon at a 45 degree angle about 30 inches.,['extend'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,The man expanded the measuring tape.,['expand'],1
+pull-out-measuring-tape-TR,pull-out-measuring-tape-TR.mp4,Jack drew out the tape,['draw'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man turned on the microwave,['turn'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man turned on a microwave.,['turn'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man turned on the microwave.,['turn'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man touched the button on the microwave.,['touch'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man started the microwave.,['start'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man starts the microwave.,['start'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,Jack pushes the microwave button.,['push'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man pushed a button on the microwave.,['push'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man pushes a button on the microwave.,['push'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man pushed a microwave button.,['push'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man pushed the microwave button,['push'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,the man pressed a button on the microwave,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man presses a button on the microwave.,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,Jack pressed the button the microwave.,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,Man presses button on keypad of black microwave,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man presses a button on the microwave.,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,he pressed a button on the microwave,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man pressed a button on the microwave.,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man presses a button on the microwave.,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,A man presses a button on a microwave.,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man pressed a button on the microwave.,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,the man pressed a button,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man pressed a button on the microwave.,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man pressed a microwave button.,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man pressed a button on a microwave.,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,A man pressed the button.,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,The man pressed a microwave button.,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,man pressed microwave button,['press'],1
+push-button-microwave-TR,push-button-microwave-TR.mp4,the man hit the button on the microwave,['hit'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man squishes the object into the box.,['squish'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man smashed the object.,['smash'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man put a stuffed animal in a box.,['put'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,A man pushed a toy in a box,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,the man pushed the black toy into the box,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,the man pushed a toy down into the box,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,Jack pushes the toy into the box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,Jack pushed the object down into the box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man pushed the doll into the box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,Jack pushed an object into the box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man pushes a stuffed doll down into a box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man pushed the puppet down.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,A man pushes a toy ninja down in a box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man pushed the stuffed toy into the box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man pushes the doll into the box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man pushed the black toy into the box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The puppet is pushed into the box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man pushed the puppet into a box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man pushed the puppet back down in the box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man pushes the ninja doll into a cardboard box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man pushed the toy down into the box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man pushed the toy in the box.,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,man pushed the doll into the box,['push'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man pushed the puppet's head and it lowered down into the open box.,"['push', 'lower']",1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,man pushes small black plushie to fit into cardboard box.,"['push', 'fit']",1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man pressed the plushie into the box.,['press'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,Jack pressed the toy down in the box,['press'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The virtual reality device is placed in a box.,['place'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,The man hides the ninja object in the box.,['hide'],1
+push-toy-in-box-TR,push-toy-in-box-TR.mp4,he closed the bear into box,['close'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man turned the book sideways.,['turn'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,the man set down the book on the table gently,['set'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,the man set the book on its side,['set'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,Jack sets the book on the table.,['set'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man sets the book down sideways.,['set'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man set the book down.,['set'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,the book was set on it's side,['set'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man set the book horizontally on the table.,['set'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,A man sets a book on a table.,['set'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man rotates the book.,['rotate'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man put the book down,['put'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man put the book down.,['put'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man put the book down.,['put'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man put the book on the table.,['put'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man put the book face down on the table using his right hand.,"['put', 'use']",1
+put-book-on-side-TR,put-book-on-side-TR.mp4,Jack placed the book face down.,['place'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man placed the book down on the table.,['place'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man places a book facedown on the table.,['place'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The book was placed face-down.,['place'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,He placed the book on the table,['place'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man placed the book on it's cover.,['place'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man placed the book on the table.,['place'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,Man moves book from its position on its side to a position facedown,['move'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,man made the book horizontal from vertical position,['make'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,Jack laid the book down.,['lay'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man laid the book cover down on the table.,['lay'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man lays the book flat upon the table.,['lay'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man laid the book down.,['lay'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man lays the book down on the table.,['lay'],1
+put-book-on-side-TR,put-book-on-side-TR.mp4,The man layed down the book.,['lay'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man used a coaster.,['use'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,Jack sat the mug down.,['sit'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man sits a black and red mug onto the table.,['sit'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man sat a coffee mug down.,['sit'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man sat his coffee mug on the coaster using his right hand.,"['sit', 'use']",1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,the man set down his cup,['set'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man set down the cup.,['set'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man sets the cup down onto the coaster.,['set'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,he set the glass down,['set'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man set a mug on the coaster.,['set'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,A man sets a mug on a coaster.,['set'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man sets down his mug.,['set'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man set down his cup.,['set'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man put down his drink,['put'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,Jack puts the cup down.,['put'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man put the cup on the coaster.,['put'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man put the cup down.,['put'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man put down the mug.,['put'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man put down a mug.,['put'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man put the mug on the coaster.,['put'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man placed the mug down.,['place'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,Man places mug onto matching coaster,['place'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,Jack placed the mug down.,['place'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man placed the mug on a coaster.,['place'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,Jack placed the mug on the mat,['place'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man places the mug.,['place'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man places a coffee mug down onto a coaster.,['place'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man placed the mug on the coaster.,['place'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,man placed the cup on the soccer,['place'],1
+put-cup-on-coaster-TR,put-cup-on-coaster-TR.mp4,The man held the cup on the  water preventer.,['hold'],1
+racecar-into-box-IN,race-car-into-box-IN.mp4,The toy car zipped into the open box,['zip'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,Object A slid into the sideways box that was held by the man.,"['slide', 'hold']",0
+racecar-into-box-IN,race-car-into-box-IN.mp4,A small car ran into the box.,['run'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The car ran into the box.,['run'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The toy car runs into the box.,['run'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The toy car ran into the box.,['run'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,A toy car ran inside a cardboard box.,['run'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The minicar ran into the box.,['run'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,"small black toy car rides across table and into cardboard box (positioned on its side), where it stops","['ride','stop']",0
+racecar-into-box-IN,race-car-into-box-IN.mp4,A toy car rides across the table and stops inside of a box.,"['ride','stop']",0
+racecar-into-box-IN,race-car-into-box-IN.mp4,the car was launched into box,['launch'],1
+racecar-into-box-IN,race-car-into-box-IN.mp4,car landed in the box,['land'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,A car hit the box.,['hit'],1
+racecar-into-box-IN,race-car-into-box-IN.mp4,The car went into a box,['go'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The toy car went into the box.,['go'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,the toy car got in the box,['get'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,the toy car drove itself into the small box,['drive'],1
+racecar-into-box-IN,race-car-into-box-IN.mp4,A toy car drove into the box in front of the man,['drive'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The toy car drives into the box.,['drive'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The black car drives into the box.,['drive'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The car drove into the box in front of Jack.,['drive'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The car drives into the box.,['drive'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The tiny car drove into the cardboard box.,['drive'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,A toy car drives in a box.,['drive'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The car drives into the box.,['drive'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The car drove into a box.,['drive'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,A toy car drives into an open box.,['drive'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The toy car drove into the box.,['drive'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The toy car drove into the box.,['drive'],0
+racecar-into-box-IN,race-car-into-box-IN.mp4,The toy car crashes into the box.,['crash'],0
+remove-cork-TR,remove-cork-TR.mp4,boy unscrwed top of wine bottle,['unscrew'],1
+remove-cork-TR,remove-cork-TR.mp4,The man uncorks the bottle,['uncork'],1
+remove-cork-TR,remove-cork-TR.mp4,The man uncorked the bottle,['uncork'],1
+remove-cork-TR,remove-cork-TR.mp4,The man uncorked the bottle.,['uncork'],1
+remove-cork-TR,remove-cork-TR.mp4,The man uncorks the bottle.,['uncork'],1
+remove-cork-TR,remove-cork-TR.mp4,The man uncorked the bottle.,['uncork'],1
+remove-cork-TR,remove-cork-TR.mp4,Jack uncorks champaign.,['uncork'],1
+remove-cork-TR,remove-cork-TR.mp4,The man uncorked the bottle.,['uncork'],1
+remove-cork-TR,remove-cork-TR.mp4,The man uncorks a bottle of wine.,['uncork'],1
+remove-cork-TR,remove-cork-TR.mp4,The man uncorked the wine.,['uncork'],1
+remove-cork-TR,remove-cork-TR.mp4,The man uncorks a bottle of wine,['uncork'],1
+remove-cork-TR,remove-cork-TR.mp4,A man uncorks a bottle of wine.,['uncork'],1
+remove-cork-TR,remove-cork-TR.mp4,The man took the cork out of the bottle.,['take'],1
+remove-cork-TR,remove-cork-TR.mp4,He took the cork out of the bottle.,['take'],1
+remove-cork-TR,remove-cork-TR.mp4,The man removed the cork.,['remove'],1
+remove-cork-TR,remove-cork-TR.mp4,the man removed the cork from the bottle,['remove'],1
+remove-cork-TR,remove-cork-TR.mp4,Jack pulled the cork out of a bottle of champagne.,['pull'],1
+remove-cork-TR,remove-cork-TR.mp4,The man pulls a cork out of a wine bottle.,['pull'],1
+remove-cork-TR,remove-cork-TR.mp4,The man opens a wine bottle.,['open'],1
+remove-cork-TR,remove-cork-TR.mp4,the man opened a bottle.,['open'],1
+remove-cork-TR,remove-cork-TR.mp4,The man opened the bottle of Chardonnay.,['open'],1
+remove-cork-TR,remove-cork-TR.mp4,the alcoholic opened the wine in school,['open'],1
+remove-cork-TR,remove-cork-TR.mp4,A man opened a bottle.,['open'],1
+remove-cork-TR,remove-cork-TR.mp4,The man opens the bottle of wine.,['open'],1
+remove-cork-TR,remove-cork-TR.mp4,Jack opened the bottle of wine.,['open'],1
+remove-cork-TR,remove-cork-TR.mp4,man open the wine bottle,['open'],1
+remove-cork-TR,remove-cork-TR.mp4,The man opens the bottle.,['open'],1
+reorient-pole-TR,reorient-pole-TR.mp4,Jack turned the poster over onto its side on the table.,['turn'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man turns the syntactic units.,['turn'],1
+reorient-pole-TR,reorient-pole-TR.mp4,Jack turns the object and sets it down.,"['turn', 'set']",1
+reorient-pole-TR,reorient-pole-TR.mp4,"The man shifts the cylinder from its vertical position, so it's horizontal on the table.",['shift'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man set down the tube.,['set'],1
+reorient-pole-TR,reorient-pole-TR.mp4,A man set down a tube.,['set'],1
+reorient-pole-TR,reorient-pole-TR.mp4,A man sets a gray tube with text on it on a table.,['set'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man rotated the object from vertical to horizontal,['rotate'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man rotated a rolled up poster.,['rotate'],1
+reorient-pole-TR,reorient-pole-TR.mp4,the man put a tube on the table.,['put'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man puts a rolled poster down on the table.,['put'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man put the tube down.,['put'],1
+reorient-pole-TR,reorient-pole-TR.mp4,the man put something in front of the ball,['put'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man places the poster on the table.,['place'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man placed the poster on the table.,['place'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man moved the poster.,['move'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man moved the object from vertical to horizontal.,['move'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man lies the object down.,['lie'],1
+reorient-pole-TR,reorient-pole-TR.mp4,jack laid a long cylinder flat on a table.,['lay'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man lays down the object A,['lay'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man laid the object down.,['lay'],1
+reorient-pole-TR,reorient-pole-TR.mp4,Jack lays a tube on its side.,['lay'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man lays a tube down,['lay'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man laid the object on its side,['lay'],1
+reorient-pole-TR,reorient-pole-TR.mp4,the man held the poster,['hold'],1
+reorient-pole-TR,reorient-pole-TR.mp4,The man flipped the tube over.,['flip'],1
+reorient-pole-TR,reorient-pole-TR.mp4,the boy changed position of object from vertical to horizontal,['change'],1
+roll-out-TR,roll-out-TR.mp4,Jack rolled a long thin black tube back and forth on a table.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolls the object A,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolled the object back and forth,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolled the tube back and forth.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolls the object back and forth.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolled the poster.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolls the poster.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,the man rolled a tube back and forth.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolled the object back and forth.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,Jack rolls a tube.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolled the poster on the table.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolls a poster.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolls a large cylinder on the table.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolled the tube back and forth.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,the man rolled the poster,['roll'],1
+roll-out-TR,roll-out-TR.mp4,A man rolled a tube.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolled the tube.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolls the object back and forth.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolled the tube on the table.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,Jack rolled the poster back and forth on the table.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolls a tube,['roll'],1
+roll-out-TR,roll-out-TR.mp4,the man rolling the poster,['roll'],1
+roll-out-TR,roll-out-TR.mp4,boy rolled long object on table,['roll'],1
+roll-out-TR,roll-out-TR.mp4,A man rolls a grey and white tube on a table.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolled the container.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,The man rolls the syntactic units.,['roll'],1
+roll-out-TR,roll-out-TR.mp4,the man rolled the object on the table,['roll'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man shook a drink,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,the man shook the metal bottle,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man shook the tumbler.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,Jack shakes the mixer.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man shakes the silver cocktail shaker.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,Jack shook the drink shaker.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man shook the drink.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,man shakes a silver tumbler,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,Jack shook the container.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,he shook the drink,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man is shaking the cocktail shaker.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man shakes a container back and forth.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man is shaking the shaker.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,That man shook the shaker.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,A man shakes a drink tumbler.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man shook the silver colored shaker.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,Jack shook the contents of a bottle,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man shakes the container.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man shook the metal bottle.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man shakes a cocktail mixer.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man was shaking a cocktail mixer.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,A man shakes a cocktail shaker.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man shakes the object.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man shook a shaker.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man is shaking a shaker.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man shook the shaker.,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,man shaking the flask,['shake'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man is mixing a drink.,['mix'],1
+shake-shaker-TR,shake-shaker-TR.mp4,The man mixed a drink.,['mix'],1
+shake-shaker-TR,shake-shaker-TR.mp4,As a bartender would mix a drink the man shook the object.,"['mix', 'shake']",1
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,The foam started.,['start'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,The shaving cream squirts out of the can.,['squirt'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,An object squirted onto the table.,['squirt'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,Shaving cream squirts on the table.,['squirt'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,Shaving cream was squirted on paper.,['squirt'],1
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,The shaving cream squirted on the table.,['squirt'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,Shaving cream was squirted on the table in front of the man.,['squirt'],1
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,white substance (shaving cream?) squirts out of nozzle and hits orange paper on table,"['squirt', 'hit']",0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,Shaving cream sprayed out of the can.,['spray'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,The object sprays the table.,['spray'],1
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,the foam sprayed onto table,['spray'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,Foam sprayed out of the can.,['spray'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,The shaving cream is sprayed.,['spray'],1
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,A shaving cream can sprays on colored paper.,['spray'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,Shaving creme was sprayed on the construction paper.,['spray'],1
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,some cream was sprayed on the mat,['spray'],1
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,The shaving cream sprays.,['spray'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,The bottle sprayed white goo on the table.,['spray'],1
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,Shaving cream spray on the paper on the table.,['spray'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,The can sprayed the object.,['spray'],1
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,The shaving cream was sprayed on the table.,['spray'],1
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,The shaving cream sprayed on the paper.,['spray'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,foam was sprayed on the papers,['spray'],1
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,some liquid spilled onto the table in front of the man,['spill'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,The liquid spewed onto the table in front of Jack.,['spew'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,Shaving cream is shot of the can seemingly with no one performing the action.,['shoot'],1
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,A white foamy liquid shoots out of a can that is sitting on the table.,"['shoot', 'sit']",0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,The can releases white shaving foam onto the table.,['release'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,the bottle of foam fired while the man remained motionless,['fire'],0
+shaving-cream-spray-IN,shaving-cream-spray-2-IN.mp4,The shaving cream exploded,['explode'],0
+spin-bread-TR,spin-bread-TR.mp4,Using his left hand the man spun on half of the loaf of bread on the table in front of him.,"['using', 'spin']",1
+spin-bread-TR,spin-bread-TR.mp4,man turning the bread loaf on table,['turn'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spun a bread,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,the man spinned the opbject,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,the man spun part of a loaf of bread,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,Jack spins the food.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spins a large piece of bread.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,Jack spun an object on the table.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spun the bread.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,Man spins half a loaf of bread on table top,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,Jack spun an object.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spins the bread.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,he spun the potatoes,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spun the bread on the table.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spins object a on the table.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spun the bread.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The potato slice spun.,['spin'],0
+spin-bread-TR,spin-bread-TR.mp4,A man spins half a loaf of bread.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spun the half loaf of bread on the table.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spins the bread.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spun the bread.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spins the bread slice.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spun a rock.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man was spinning a half loaf of bread on the table.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spins what appears to be half of a loaf of bread.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spun bread.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spun the object.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spun the garlic bread.,['spin'],1
+spin-bread-TR,spin-bread-TR.mp4,The man spent the object.,['spend'],1
+spin-bread-TR,spin-bread-TR.mp4,He rolled a piece of bread on the bread,['roll'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,Jack squirts shaving cream on the folder.,['squirt'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man squirts white foam onto a black peice of paper.,['squirt'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,"Man squirts shaving cream at a army green file folder, dousing it","['squirt','douse']",1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,the man sprayed the folder with shaving cream,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,the man sprayed the foam onto the folder,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man sprays shaving foam onto the black paper.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The sprayed the white liquid on the folder.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man sprayed shaving cream.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,Jack sprayed shaving cream on an object.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The object sprays the folder.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,the foam was sprayed onto paper,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man sprayed foam onto the folder.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man sprayed foam.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man sprayws the shaving cream on the binder.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,A man sprays shaving cream on a file folder.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man sprayed shaving creme on a flat surface.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,the man sprayed the mat with something,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man sprays the shaving cream.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man sprayed white goo on the folder.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man sprays shaving cream.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The men sprayed shaving cream on a folder.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,A man sprayed the object.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,Shaving cream was sprayed onto the folder.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man sprayed shaving cream.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man sprayed the folder with shaving cream.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,man spraying foam on a paper file,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man sprayed shaving cream onto the green file folder.,['spray'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man shot shaving cream,['shoot'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man shot shaving cream onto a file folder.,['shoot'],1
+spray-shaving-cream-TR,spray-shaving-cream-TR.mp4,The man spray shaving cream on a folder.,['shave'],1
+stick-break-IN,stick-break-IN.mp4,A stick that stuck through the table broke in half in front of the man.,"['stick', 'break']",0
+stick-break-IN,stick-break-IN.mp4,The stick split in half and fell over.,"['split', 'fall']",0
+stick-break-IN,stick-break-IN.mp4,The man sits at the table while the top end of a twig snaps and falls in front of him.,['fall'],0
+stick-break-IN,stick-break-IN.mp4,The twig fell down.,['fall'],0
+stick-break-IN,stick-break-IN.mp4,Half of the stick fell off.,['fall'],0
+stick-break-IN,stick-break-IN.mp4,A stick being held up by an outside force offscreen falls in half.,['fall'],0
+stick-break-IN,stick-break-IN.mp4,something collapsed in front of the man,['collapse'],0
+stick-break-IN,stick-break-IN.mp4,The stick broke,['break'],0
+stick-break-IN,stick-break-IN.mp4,A twig broke in the foreground while the man remained still in the background,['break'],0
+stick-break-IN,stick-break-IN.mp4,The stick breaks in half.,['break'],0
+stick-break-IN,stick-break-IN.mp4,A twig breaks in half in front of the man.,['break'],0
+stick-break-IN,stick-break-IN.mp4,The stick broke in front of Jack.,['break'],0
+stick-break-IN,stick-break-IN.mp4,The stick broke.,['break'],0
+stick-break-IN,stick-break-IN.mp4,The twig broke in half.,['break'],0
+stick-break-IN,stick-break-IN.mp4,The object broke apart.,['break'],0
+stick-break-IN,stick-break-IN.mp4,The top half of the stick broke off.,['break'],0
+stick-break-IN,stick-break-IN.mp4,The twig broke.,['break'],0
+stick-break-IN,stick-break-IN.mp4,A stick breaks in half,['break'],0
+stick-break-IN,stick-break-IN.mp4,A portion of a stick broke off.,['break'],0
+stick-break-IN,stick-break-IN.mp4,the stick  broke,['break'],0
+stick-break-IN,stick-break-IN.mp4,The stick breaks.,['break'],0
+stick-break-IN,stick-break-IN.mp4,The stick breaks.,['break'],0
+stick-break-IN,stick-break-IN.mp4,The stick broke in half.,['break'],0
+stick-break-IN,stick-break-IN.mp4,A stick broke in half in front of the screen.,['break'],0
+stick-break-IN,stick-break-IN.mp4,The object broke.,['break'],0
+stick-break-IN,stick-break-IN.mp4,The stick broke.,['break'],0
+stick-break-IN,stick-break-IN.mp4,The stick broke.,['break'],0
+stick-break-IN,stick-break-IN.mp4,stick was broken,['break'],1
+stick-break-IN,stick-break-IN.mp4,"Stick standing vertically breaks in half, top piece falling onto the table","['break', 'fall']",0
+stick-break-IN,stick-break-IN.mp4,the wire broke and fell,"['break', 'fall']",0
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man swats the balloon.,['swat'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man swats a balloon.,['swat'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man swatted the oranhis right hand.,['swat'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,Jack smacked the balloon.,['smack'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man smacked a falling balloon.,['smack'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man smacked the balloon away.,['smack'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man smacked the balloon.,['smack'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,He slapped a balloon,['slap'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,Man slaps orange balloon with right hand,['slap'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,Jack slapped the balloon.,['slap'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,A man slaps a falling balloon.,['slap'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,JAck slapped off the balloon,['slap'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man slapped a balloon.,['slap'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man slapped a balloon out of his way.,['slap'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man pushes away an orange balloon.,['push'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,man pushing away the balloon,['push'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,Jack hits the balloon.,['hit'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man hit the balloon.,['hit'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man hit the balloon.,['hit'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,he hit the balloon away,['hit'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man hit the balloon.,['hit'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man hit the dropping baloon.,['hit'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man hit the balloon.,['hit'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man hits the falling balloon away.,['hit'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man hit the balloon.,['hit'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,the man flicked the balloon away,['flick'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,A ball falls down in front of the mans face and he hits it with his hand.,"['fall', 'hit']",1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man batted a balloon off camera to the right,['bat'],1
+hit-balloon-TR,swat-balloon-1-TR.mp4,The man batted a balloon away.,['bat'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man took the keys out of the box.,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man took keys out of a box.,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man took keys from the box.,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man took keys from the box,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man took keys out of the box.,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,Jack took keys out of the box,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man took the keys out of the box.,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,the man took the keys out of the box,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,A man took keys out of a box.,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man took the keys out of the box.,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man takes the keys out of the box.,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,the man took the keys from the box,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,boy took key set out of open box,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,A man takes keys out of a box.,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man takes keys from the box.,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,the man took keys out of the box,['take'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man removed the keys from the box.,['remove'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man removed keys from the box.,['remove'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man pulled keys out of a box.,['pull'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man picked the keys from the box,['pick'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man picked up keys out of the box.,['pick'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,Jack picked up the keys from inside the box on the table.,['pick'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man picks up keys out of the box,['pick'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,jack lifted the keys out of the box.,['lift'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man grabbed keys out of the box,['grab'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,The man grabs the keys from the box.,['grab'],1
+take-keys-out-of-box-TR,take-keys-out-of-box-TR.mp4,He got a set of keys out of the box.,['get'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man took the lid off the jar.,['take'],1
+take-lid-off-TR,take-lid-off-TR.mp4,Jack takes the lid off a jar.,['take'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man takes the lid off a container,['take'],1
+take-lid-off-TR,take-lid-off-TR.mp4,boy took off jar from container,['take'],1
+take-lid-off-TR,take-lid-off-TR.mp4,A man takes the lid off a jar.,['take'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man removed the lid,['remove'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man removed the lid from the jar.,['remove'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man removed the lid from the jar.,['remove'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man removed the lid.,['remove'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man removed the cap from a jar.,['remove'],1
+take-lid-off-TR,take-lid-off-TR.mp4,the man removed the lid from the jar,['remove'],1
+take-lid-off-TR,take-lid-off-TR.mp4,the man opend the jar,['opend'],1
+take-lid-off-TR,take-lid-off-TR.mp4,Jack opened a jar.,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man opens the jar,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man opened the jar.,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man opened a jar.,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man opened the jar.,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,the man opened the jar.,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man opened the Jar.,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man opened the jar.,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man opened the jar.,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,the man opened the mayonaisse,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,A man opened a jar.,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man opens the jar.,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,Jack opened the container.,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,He opened the jar.,['open'],1
+take-lid-off-TR,take-lid-off-TR.mp4,The man opens the jar.,['open'],1
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The ruler slumped over.,['slump'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,something moved,['move'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,An upright  pulled out tape measure fell over,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The measuring tape falls off,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The measuring tape fell over.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,A yellow tape falls.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The tape ruler falls down.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,a piece of measuring tape fell over.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The measuring tape fell down.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,Measuring tape falls over.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,A ruler falls over from its upright position.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The tape measure fell over in front of the man.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,the paper fell over,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,An object fell.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The measuring tape fell down.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The object falls over onto the table.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The measuring tape fell over.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The measuring tape ruler was bent to the side and fell in front of Jack.,['fall'],1
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,A measuring tape falls over,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,"a yellow ribbon , strip fell down in front of seated boy",['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The tape measure fell down.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The tape measure falls over.,['fall'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,An extended tape measure doubles over.,['double'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The tape measure collapsed,['collapse'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,The tape measure collapsed.,['collapse'],0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,the measuring tape buckled and collapsed onto the table,"['buckle', 'collapse']",0
+tape-measurer-bend-half-IN,tape-measurer-bend-IN.mp4,A tape measure bends.,['bend'],0
+taughten-string-TR,taughten-string-TR.mp4,Jack tightens string.,['tighten'],1
+taughten-string-TR,taughten-string-TR.mp4,The man tightened the yarn taught.,['tighten'],1
+taughten-string-TR,taughten-string-TR.mp4,boy tightened piece of  string attached to ball of string,['tighten'],1
+taughten-string-TR,taughten-string-TR.mp4,The man tightens the string.,['tighten'],1
+taughten-string-TR,taughten-string-TR.mp4,the man tightened the string,['tighten'],1
+taughten-string-TR,taughten-string-TR.mp4,The man stretched the yarn.,['stretch'],1
+taughten-string-TR,taughten-string-TR.mp4,The man stretches out the string.,['stretch'],1
+taughten-string-TR,taughten-string-TR.mp4,The man stretched the string.,['stretch'],1
+taughten-string-TR,taughten-string-TR.mp4,The man straightens the thread,['straighten'],1
+taughten-string-TR,taughten-string-TR.mp4,The man straightened the string.,['straighten'],1
+taughten-string-TR,taughten-string-TR.mp4,The man straightens the string.,['straighten'],1
+taughten-string-TR,taughten-string-TR.mp4,He straightened the yarn.,['straighten'],1
+taughten-string-TR,taughten-string-TR.mp4,The man snaps a piece of string,['snap'],1
+taughten-string-TR,taughten-string-TR.mp4,jack pulled string from the ball of string taut.,['pull'],1
+taughten-string-TR,taughten-string-TR.mp4,The man pulled the string apart,['pull'],1
+taughten-string-TR,taughten-string-TR.mp4,The man pulled the twine taught.,['pull'],1
+taughten-string-TR,taughten-string-TR.mp4,The man pulls the string tight.,['pull'],1
+taughten-string-TR,taughten-string-TR.mp4,the man pulled string tight.,['pull'],1
+taughten-string-TR,taughten-string-TR.mp4,The pulls pulls a string tight.,['pull'],1
+taughten-string-TR,taughten-string-TR.mp4,The man pulls a white string taut.,['pull'],1
+taughten-string-TR,taughten-string-TR.mp4,A man pulled yarn.,['pull'],1
+taughten-string-TR,taughten-string-TR.mp4,The man pulled the string tight.,['pull'],1
+taughten-string-TR,taughten-string-TR.mp4,Jack pulled the yarn taut.,['pull'],1
+taughten-string-TR,taughten-string-TR.mp4,A man pull some yarn taut.,['pull'],1
+taughten-string-TR,taughten-string-TR.mp4,thread moved,['move'],0
+taughten-string-TR,taughten-string-TR.mp4,The man made the string straight.,['make'],1
+taughten-string-TR,taughten-string-TR.mp4,the man held the twine,['hold'],1
+tear-paper-TR,tear-paper-TR.mp4,the man tore the paper,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The man tore the page.,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The man tore the paper in half.,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The man tore a paper in half.,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,Man tears pamphlet in half,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The man tore the flyer.,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The man tore the paper.,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The man tears the paper in half.,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The man tore the paper.,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,Jack tore a piece of paper,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The mean tears the paper.,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The man tears the advertisement.,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The man tore a piece of paper in half.,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The man tore paper.,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The man tore the paper.,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The man tore the paper.,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,man tearing the paper,['tear'],1
+tear-paper-TR,tear-paper-TR.mp4,The man tore the paper in half using both hands.,"['tear', 'use']",1
+tear-paper-TR,tear-paper-TR.mp4,The man ripped the paper,['rip'],1
+tear-paper-TR,tear-paper-TR.mp4,Jack rips the paper.,['rip'],1
+tear-paper-TR,tear-paper-TR.mp4,Jack ripped the paper.,['rip'],1
+tear-paper-TR,tear-paper-TR.mp4,Jack ripped the flier.,['rip'],1
+tear-paper-TR,tear-paper-TR.mp4,he ripped the paper,['rip'],1
+tear-paper-TR,tear-paper-TR.mp4,The man ripped the couptons.,['rip'],1
+tear-paper-TR,tear-paper-TR.mp4,A man rips an advertisement in half.,['rip'],1
+tear-paper-TR,tear-paper-TR.mp4,The mad ripped the advertisement in half with his hands.,['rip'],1
+tear-paper-TR,tear-paper-TR.mp4,The man ripped the paper.,['rip'],1
+tear-paper-TR,tear-paper-TR.mp4,The man ripped the paper.,['rip'],1
+tear-paper-TR,tear-paper-TR.mp4,A man rips an advertisement apart.,['rip'],1
+tear-paper-TR,tear-paper-TR.mp4,The man rips the object.,['rip'],1
+tower-fall-IN,tower-fall-IN.mp4,The stacked blockssfell apart.,['stack'],0
+tower-fall-IN,tower-fall-IN.mp4,The wood blocks fell over in front of Jack.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,The tower falls off,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,The blocks fell over.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,The blocks fall down.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,The object falls apart.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,The blocks fell down.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,Blocks fall over.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,A toy chair falls apart.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,A small chair falls apart.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,The blocks fell down in front of the man.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,the tower fell over,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,Some blocks fell over.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,The tower fell over.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,The blocks fell down.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,The building blocks fell.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,A stack of wooden tubes fell down on the table in front of Jack.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,The blocks fall to the table,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,Some blocks fall over.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,The blocks fell down.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,The blocks fall over in front of the man.,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,the blocks fell over on the table,['fall'],0
+tower-fall-IN,tower-fall-IN.mp4,The object collapsed onto the table,['collapse'],0
+tower-fall-IN,tower-fall-IN.mp4,the chair of blocks collapsed.,['collapse'],0
+tower-fall-IN,tower-fall-IN.mp4,The miniature chair collapsed on the table.,['collapse'],0
+tower-fall-IN,tower-fall-IN.mp4,small wooden block structure collapsed,['collapse'],0
+tower-fall-IN,tower-fall-IN.mp4,the chair broke,['break'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,The toy rises out of the box.,['rise'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,An object rose from the box.,['rise'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,The object rises out of the box.,['rise'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,The plushie rose out of the box.,['rise'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,The stuffed toy rises up out of the box.,['rise'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,A stuffed toy rose from the open box,['rise'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,The doll rises from the box.,['rise'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,A puppet gently rose from the open box in front of the man.,['rise'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,doll raised from the box,['raise'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,A toy popped up from a box,['pop'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,the toy popped out of the box in front of the man,['pop'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,A toy ninja pops out of a box.,['pop'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,A black toy popped out of the box.,['pop'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,The puppet pops out of the box.,['pop'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,A puppet popped up out of the box.,['pop'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,A toy popped out of the box.,['pop'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,small black plush lifts itself up out of cardboard box,['lift'],1
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,The toy lifted out of the box.,['lift'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,a toy emerged from the box,['emerge'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,a toy came up out of the box while the man remained still,['come'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,The puppet slowly came up out of the box in front of Jack.,['come'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,The doll came out of the box.,['come'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,the beat came out the box,['come'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,The puppet came out the box.,['come'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,A puppet came out of a box.,['come'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,The object comes out the box.,['come'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,A stuffed animal came out of the box.,['come'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,A ninja appears from inside the box.,['appear'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,The toy virtual reality ninja appears.,['appear'],0
+toy-appear-in-box-IN,toy-appear-in-box-IN.mp4,A ninja doll appears rising from out of a box.,"['appear', 'rise']",0
+toy-crawl-IN,toy-crawl-IN.mp4,A large silver object walks past the man.,['walk'],0
+toy-crawl-IN,toy-crawl-IN.mp4,The object walked across the table in front of Jack.,['walk'],0
+toy-crawl-IN,toy-crawl-IN.mp4,An object walked across the table.,['walk'],0
+toy-crawl-IN,toy-crawl-IN.mp4,The robot walked across the table.,['walk'],0
+toy-crawl-IN,toy-crawl-IN.mp4,A robotic figure walked across the screen.,['walk'],0
+toy-crawl-IN,toy-crawl-IN.mp4,"While the table rises, a robotic toy climbs the rising angle.","['rise', 'climb', 'rise']",1
+toy-crawl-IN,toy-crawl-IN.mp4,The gadget moved up,['move'],0
+toy-crawl-IN,toy-crawl-IN.mp4,a toy moved across the table in front of the man,['move'],0
+toy-crawl-IN,toy-crawl-IN.mp4,metal robotic-like object moves across table,['move'],0
+toy-crawl-IN,toy-crawl-IN.mp4,The object moves across the table.,['move'],0
+toy-crawl-IN,toy-crawl-IN.mp4,The toy moved forward.,['move'],0
+toy-crawl-IN,toy-crawl-IN.mp4,The moving enginnering walker moves forward.,['move'],0
+toy-crawl-IN,toy-crawl-IN.mp4,Some mechanical thing moved across the table,['move'],0
+toy-crawl-IN,toy-crawl-IN.mp4,The machine moved across the table.,['move'],0
+toy-crawl-IN,toy-crawl-IN.mp4,The robot moved across the table.,['move'],0
+toy-crawl-IN,toy-crawl-IN.mp4,robotic worm was moving,['move'],0
+toy-crawl-IN,toy-crawl-IN.mp4,A robot eases across the table in front of the man.,['ease'],0
+toy-crawl-IN,toy-crawl-IN.mp4,The toy crawled across the table.,['crawl'],0
+toy-crawl-IN,toy-crawl-IN.mp4,A wind-up device crawled across the table.,['crawl'],0
+toy-crawl-IN,toy-crawl-IN.mp4,A toy robot crawls across a table.,['crawl'],0
+toy-crawl-IN,toy-crawl-IN.mp4,The robot crawls.,['crawl'],0
+toy-crawl-IN,toy-crawl-IN.mp4,The machine crawled forward.,['crawl'],0
+toy-crawl-IN,toy-crawl-IN.mp4,The toy caterpillar crawled in front of the man.,['crawl'],0
+toy-crawl-IN,toy-crawl-IN.mp4,a toy insect contraption climbed the foreground table,['climb'],1
+toy-crawl-IN,toy-crawl-IN.mp4,The toy robot climbs up the cardboard.,['climb'],1
+toy-crawl-IN,toy-crawl-IN.mp4,the thing climbed up the cardboard,['climb'],1
+toy-crawl-IN,toy-crawl-IN.mp4,The toy climbs.,['climb'],0
+toy-crawl-IN,toy-crawl-IN.mp4,The metal toy climbed the table.,['climb'],1
+toy-crawl-IN,toy-crawl-IN.mp4,The robot climbed up the table as the table was tipping on its side,"['climb', 'tip']",1
+toy-skitter-IN,toy-skitter-IN.mp4,The machine vibrated.,['vibrate'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The object is spinning in a circle.,['spin'],0
+toy-skitter-IN,toy-skitter-IN.mp4,A toy was spinning around on the table.,['spin'],0
+toy-skitter-IN,toy-skitter-IN.mp4,A toy bug scatters around on a table.,['scatter'],0
+toy-skitter-IN,toy-skitter-IN.mp4,A gadget moved,['move'],0
+toy-skitter-IN,toy-skitter-IN.mp4,a little toy moved by itself in front of the man,['move'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The toy robot moves on the table.,['move'],0
+toy-skitter-IN,toy-skitter-IN.mp4,the thing was moving on table,['move'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The object moved around.,['move'],0
+toy-skitter-IN,toy-skitter-IN.mp4,small motorized figure jumps up and down rapidly on table,['jump'],0
+toy-skitter-IN,toy-skitter-IN.mp4,A robbot jumps around on a table in front of the man.,['jump'],0
+toy-skitter-IN,toy-skitter-IN.mp4,A toy jittered on the table in front of the man while he was motionless.,['jitter'],0
+toy-skitter-IN,toy-skitter-IN.mp4,A small robotic toy gyrates on the table.,['gyrate'],0
+toy-skitter-IN,toy-skitter-IN.mp4,A tiny silver object dances on the table.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The object danced in front of Jack.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The toy danced around.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,A toy danced on the table.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The tiny motor on the table is dancing.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The bug toy danced.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The bouncing metal spider danced.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The spider shaped robot danced on the table.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,Some toy danced on the table,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The object dances.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The little toy danced on the table.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The robot dances on the table.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The toy danced on the table.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,A small toy danced on the table.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The robot danced on the table.,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,robotic bug was dancing,['dance'],0
+toy-skitter-IN,toy-skitter-IN.mp4,The man watched Object A dance in front of him.,['dance'],1
+turn-fan-TR,turn-fan-TR.mp4,Jack turned the table fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,The man turned the fan,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,The man turned the fan,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,The man turned the fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,The man turned the fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,The man turned the fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,the man turned the fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,The man turned the fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,The man turned the fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,The man turned the fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,The man turned the fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,the man turned the fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,A man turned a fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,The man turned the fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,The man turns the fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,The man turns a fan,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,A man turns a desk fan.,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,the man turned the fan,['turn'],1
+turn-fan-TR,turn-fan-TR.mp4,The man rotated the fan.,['rotate'],1
+turn-fan-TR,turn-fan-TR.mp4,boy rotated position of fan on table,['rotate'],1
+turn-fan-TR,turn-fan-TR.mp4,The man re-positioned the fan.,['reposition'],1
+turn-fan-TR,turn-fan-TR.mp4,The man moved the fan.,['move'],1
+turn-fan-TR,turn-fan-TR.mp4,Jack moved the fan in another direction.,['move'],1
+turn-fan-TR,turn-fan-TR.mp4,He moved the fan.,['move'],1
+turn-fan-TR,turn-fan-TR.mp4,Jack adjusts the fan.,['adjust'],1
+turn-fan-TR,turn-fan-TR.mp4,the man adjusted the fan,['adjust'],1
+turn-fan-TR,turn-fan-TR.mp4,The man adjust the fan.,['adjust'],1
+walk-backwards-IN,walk-backwards-IN.mp4,Jack walked backwards to the blue curtain,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,The man walks backwards to the blue background,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,A man walked backwards,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,The man walked backwards.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,The man walks backwards.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,The man walked backward.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,The man walks backwards.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,the man walked backwards towards a blue curtain,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,The man walks backwards.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,Jack walks backwards.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,The man walked backwards towards the board.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,A man walks backward into the frame.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,The man walks backwards diagonally.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,The man walked backwards in front of the curtain.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,the man wlaked backwards,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,A man walked backwards.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,The man walked backwards.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,Jack walks backwards across the room,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,The man walked backwards.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,Jack walked backwards towards the blue cloth.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,The man walks backward,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,the man walked back to the screen,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,A man walks backwards.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,A man walked backwards.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,The man walks backwards.,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,the man walked backwards across the room,['walk'],0
+walk-backwards-IN,walk-backwards-IN.mp4,the boy walked backward and stopped in front of blue drape,"['walk', 'stop']",0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,An orange piece of paper twirls down onto the purple paper.,['twirl'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The paper twirled down.,['twirl'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,"An orange folded paper slowly twirls and falls from the sky, hitting the man's hair.","['twirl', 'fall', 'hit']",0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The paper swirled down onto the table in front of Jack.,['swirl'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The object spiraled down.,['spiral'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The paper copter spun.,['spin'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,I a piece of paper landed on the table.,['land'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,orange paper toy landed on the pink sheet,['land'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The object flew down to the table.,['fly'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,the paper flew down,['fly'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The paper fluttered down.,['flutter'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,A piece of paper floats down from the ceiling.,['float'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,Object A floated down from the above the man's head onto the pink paper on the table in front of him.,['float'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,A paper fell down,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,a paper fell down from the sky onto the table,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,the man remained motionless while an origami flower fell in front of him,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The paper airplane falls on the table.,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,Folded piece of orange paper falls down onto table,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,An orange paper fell onto the table.,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,A piece of paper fell onto the table from up above.,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,A peice of paper falls down in front of the man and lands on the table.,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The paper fell.,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,Some piece of paper fell on the teble,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The orange paper fell onto the table.,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The paper copter falls onto the pink sheet.,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The orange paper fell onto the pink paper.,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The paper fell from the ceiling.,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The paper fell softly on the table.,['fall'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,An orange color paper helicopter dropped on the table.,['drop'],0
+whirly-gig-drop-IN,whirly-gig-drop-IN.mp4,The paper toy decends.,['descends'],0
