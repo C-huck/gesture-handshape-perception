@@ -1,15 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri May 14 11:11:31 2021
-
-@author: Jack
+@author: C-huck
 """
 
 #IMPORT STATEMENTS
 import pandas as pd
 import common_functions as cf
 import generate_random_verbs as grv
-from video_rename import ren_key
 from scipy.stats import ttest_ind
 import numpy as np
 
@@ -21,14 +18,7 @@ df_action = pd.read_csv("action_label.csv",header=0,converters={'verb': eval}).d
 df_action['verb'] = [','.join(x) for x in df_action['verb']]
 
 #LOAD GESTURE PERCEPTION DATA
-columns = ["Input.field_1","Answer.sentence","verb","transitivity","RequesterFeedback","DELETE","WorkerId"]
-df_csv = pd.read_csv("C:/Users/Jack/ud120-projects/transparency-project-cc-pn/CLS/data_final.csv",header=0,usecols=columns)
-df_csv = df_csv[df_csv['RequesterFeedback'].isna()].drop(columns=['RequesterFeedback'])
-df_csv = df_csv[df_csv['DELETE']!=1].drop(columns=['DELETE'])
-df_csv = df_csv.rename(columns={'Input.field_1':'item','Answer.sentence':'sentence'}).dropna()
-df_csv['event'],df_csv['participant'] = cf.rename_item_names(df_csv,ren_key)
-
-
+df_csv = pd.read_csv("data.csv",header=0)
 
 #PROCESS ACTION PERCEPTION DATA, COMPUTE INTER-SIMILARITY
 df_scores_action = pd.DataFrame(data=cf.get_all_scores(df_action),columns=["item","transitivity",'sdi','embedding_score'])
