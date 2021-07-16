@@ -16,8 +16,8 @@ Project explores what range(s) of interpretations silent gestures are perceived 
 
 - `action_label.csv` : Cleaned data from live action labeling experiment
 - `common_functions.py` : functions used to 
-- `gesture_label.csv` : Cleaned data from gesture labeling experiment
 - `generate_random_verbs.py` : functions to generate random baseline for analysis
+- `gesture_label.csv` : Cleaned data from gesture labeling experiment
 - `main_analysis.py` : statistical analysis + plotting
 - `relevant-fram...LUs.txt ` : semi-structure list of action concepts from FrameNet. Used in generation of random baseline.
 
