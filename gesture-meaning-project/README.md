@@ -2,6 +2,25 @@
 
 Project explores what range(s) of interpretations silent gestures are perceived to have. 
 
+# Contents
+
+1. [Files](#files)
+2. [Background](#background)
+3. [Method](#method)
+4. [Analysis](#analysis)
+5. [Results](#results)
+6. [Interpretation](#interpretation)
+7. [References](#references)
+
+# Files
+
+- `action_label.csv' : Cleaned data from live action labeling experiment
+- `common_functions.py` : functions used to 
+- `gesture_label.csv` : Cleaned data from gesture labeling experiment
+- `generate_random_verbs.py` : functions to generate random baseline for analysis
+- `main_analysis.py` : statistical analysis + plotting
+- `relevant-fram...LUs.txt ` : semi-structure list of action concepts from FrameNet. Used in generation of random baseline.
+
 # Background
 
 Gesture contains a wealth of imagistic, yet vague information. Studies show that
