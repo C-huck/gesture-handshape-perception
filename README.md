@@ -8,6 +8,15 @@ Tools used:
 - NLTK/WordNet
 - Scikit-learn
 
+# To-do
+
+- [ ] Gesture meaning project
+  - [ ] Clean up `common_functions.py` : Eliminate redundancies in `comp_all_X` functions 
+- [ ] Transitivity project
+  - [ ] Create README
+  - [ ] Write abstract, post plots
+  - [ ] Upload analysis scripts
+
 **Background:**
 - People unfamiliar with a sign language, aka non-signers, are good at resolving grammatical information about signs, like whether the events they denote have natural semantic endpoints:
   -  This phenomenon in language is called *telicity*. e.g., *The flower wilted* has an endpoint/is telic (*The flower is completely wilted*), but *The flower grew* does not/is atelic (*?The flower completely grew*). 
