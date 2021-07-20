@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 16 10:30:16 2021
 
-@author: Jack
+@author: Chuck
 """
 #IMPORT STATEMENTS
 import generate_random_verbs as grv
@@ -189,5 +189,6 @@ def init():
     global dictionary
     embeddings_dict = load_embeddings("C:/Users/Jack/ud120-projects/GloVe-master/glove.6B/glove.6B.300d.txt")
     dictionary = grv.load_relevant_verbs()
+    return embeddings_dict,dictionary
 
 
