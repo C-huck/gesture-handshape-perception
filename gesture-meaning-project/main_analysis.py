@@ -22,7 +22,7 @@ df_action['verb'] = [','.join(x) for x in df_action['verb']]
 
 #LOAD GESTURE PERCEPTION DATA
 columns = ["Input.field_1","Answer.sentence","verb","RequesterFeedback","DELETE",'transitivity']
-df_gesture = pd.read_csv("C:/Users/Jack/ud120-projects/transparency-project-cc-pn/CLS/data_final.csv",header=0,usecols=columns)
+df_gesture = pd.read_csv("gesture_label.csv",header=0,usecols=columns)
 df_gesture = df_gesture[df_gesture['RequesterFeedback'].isna()].drop(columns=['RequesterFeedback'])
 df_gesture = df_gesture[df_gesture['DELETE']!=1].drop(columns=['DELETE'])
 df_gesture = df_gesture.rename(columns={'Input.field_1':'item','Answer.sentence':'sentence'}).dropna()
