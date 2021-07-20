@@ -2,7 +2,7 @@
 """
 Created on Mon May 10 14:23:26 2021
 
-@author: Jack
+@author: Chuck
 """
 
 #IMPORT STATEMENTS
@@ -30,7 +30,7 @@ def load_relevant_verbs():
     corpus = [x.strip() for x in corpus]    
     return list(set(corpus))
 
-def generate_bootstrapped_baseline(dictionary,embeddings_dict,n=20,iterations=1000):
+def generate_bootstrapped_baseline(dictionary,embeddings_dict,n=20,iterations=1000,seed=0):
     """
     Generates baseline measure by pseudo-randomly drawing words from hand-selected 
     VerbNet verb list. Verbs are grouped into transitive and intransitive sets,
@@ -55,15 +55,18 @@ def generate_bootstrapped_baseline(dictionary,embeddings_dict,n=20,iterations=10
         list of word lists
 
     """
+    import math  
+    np.random.seed(seed)
     vector_array = []
     i = 0
     if iterations % 2 == 0:
         bool_vec = [True]*int(iterations/2) + [False]*int(iterations/2)
-    elif n % 2 ==0:
-        bool_vec = ([True]*int(n/2) + [False]*int(n/2)) * iterations
     else:
-        print('iterations or n must be even')
-        return -1
+        #elif n % 2 ==0:
+        bool_vec = [True]*int(math.ceil(iterations/2)) + [False]*int(math.floor(iterations/2)) #* iterations
+    #else:
+    #    print('iterations or n must be even')
+    #    return -1
     word_list = []
     while i < iterations:
         temp_array = []
@@ -82,7 +85,7 @@ def generate_bootstrapped_baseline(dictionary,embeddings_dict,n=20,iterations=10
         vector_array.append(mean_dist)
         word_list.append(set_list)
         i+=1
-    return vector_array,word_list
+    return vector_array,word_list,bool_vec
 
 
 def is_transitive(word):
@@ -111,9 +114,3 @@ def is_transitive(word):
             return False
     except:
         return -1
-    
-#distances,word_list = generate_bootstrapped_baseline(dictionary,embeddings_dict,n=20,iterations=414)
-
-
-#rand_out = generate_bootstrapped_baseline(dictionary,embeddings_dict,n=20,iterations=413)
-
