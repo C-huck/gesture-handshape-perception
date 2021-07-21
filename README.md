@@ -60,8 +60,12 @@ Tools used:
 **Figure 1:** (Left) Verb DECIDE in American Sign Language; (right) Verb THINK-OVER in American Sign Language. Non-signers are not able to guess the meaning of the signs, but they can tell that DECIDE has a natural semantic endpoint, but THINK-OVER does not. Figure obtained from https://doi.org/10.1073/pnas.1423080112.
 
 ### Research Questions
-- **Q1:** (a) Can participants with no sign language experience detect whether silent gestures represent transitive or intransitive events? (b) Do visual characteristics of the gestures guide non-signer's perception of transitivity?; See `/gesture-transitivity-project`
-- **Q2:** How accurate are non-signing participants at guessing the encyclopedic content of silent gestures? See `/gesture-meaning-project`
+**Q1:** 
+1. Can participants with no sign language experience detect whether silent gestures represent transitive or intransitive events? 
+2. Do visual characteristics of the gestures guide non-signer's perception of transitivity?; See `/gesture-transitivity-project`
+
+**Q2:** 
+1. How accurate are non-signing participants at guessing the "dictionary" meaning of silent gestures? See `/gesture-meaning-project`
 
 
 ## General methods:
@@ -80,9 +84,13 @@ Tools used:
 -  We predicted SD(action-verbs,gesture-verbs) >> SD(action-verbs,random-verbs)
  
  ## Results:
-- Q1: transitivity is transparent: non-signers are 86% accurate at guessing the transitivity of silent gestures
-- Q1: non-signer transitivity judgments can be predicted by the visual characteristics of the silent gestures
-- Q2: verbs generated from action videos are significantly more related to verbs generated from gesture videos than to random verbs; the encyclopedic content of silent gesture is not as ambiguous as previously assumed
+***Q1:***
+  - transitivity is transparent: non-signers are 86% accurate at guessing the transitivity of silent gestures
+  - non-signer transitivity judgments can be predicted by the visual characteristics of the silent gestures
+
+***Q2:*** 
+- verbs generated from action videos are significantly more related to verbs generated from gesture videos than to random verbs
+- the encyclopedic content of silent gesture is not as ambiguous as previously assumed
 
 ## Output
 For Q1, see [abstract 1](https://c-huck.github.io/pdfs/CUNY2021.pdf) - [abstract 2](https://c-huck.github.io/pdfs/AMLaP_silent_gesture_transitivity.pdf)
