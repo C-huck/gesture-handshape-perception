@@ -13,8 +13,8 @@ Tools used:
 1. [To-do](#to-do)
 2. [Files](#files)
 3. [Background](#background)
-4. [Method](#method)
-5. [Analysis](#analysis)
+4. [Method](#general-methods)
+5. [Analysis](#general-analyses)
 6. [Results](#results)
 7. [Output](#output)
 
@@ -36,34 +36,48 @@ Tools used:
 
 ## Background:
 
-- People unfamiliar with a sign language, aka non-signers, are good at resolving grammatical information about signs, like whether the events they denote have natural semantic endpoints:
-  -  This phenomenon in language is called *telicity*. e.g., *The flower wilted* has an endpoint/is telic (*The flower is completely wilted*), but *The flower grew* does not/is atelic (*?The flower completely grew*). 
--  But, non-signers are bad at guessing the encyclopedic content (=meaning) of signs
-  -  e.g., Non-signers usually can't guess that the sign DECIDE (Fig 1, left) means *to decide* or THINK (Fig 1, right) mean *to think*, but they know that the former has a natural semantic endpoint while the latter does not
-- This project focuses on how meaning and *argument structure* are conveyed in silent gesture, and how they are perceived 
+### Information sources in language
+- Speech contains a wealth of information, each conveyed in different channels: 
+  - sequences of sounds identify words
+  - accents and pitch identify speaker identity (e.g., female, Irish speakers of English)
+  - intonation conveys force (question, statement, command, etc.) and emotional state
+- Research on sign languages have similarly identified different channels where distinct information can be found:
+  - Hands convey signs/words (signs are differentiated by handshape, location, orientation of palms, etc.)
+  - Facial expressions convey force (questions, statements, etc.), sentence boundaries (e.g., like periods in written English), etc. 
+- Gesture also contains a wealth of information, but researchers are only just beginning to identify sources of information and provide them a linguistic description
+
+### Information sources in gesture, perception
+- Previous research has shown that people unfamiliar with a sign language, aka non-signers, are good at resolving grammatical information about signs and gestures
+- But, non-signers are bad at guessing the "dictionary" meaning of signs
+- For example, non-signers can guess whether the events verb signs denote have natural semantic endpoints, irrespective of their ability to guess what the sign means:
+   - FYI: This phenomenon in language is called *telicity*. e.g., *The flower wilted* has an endpoint/is telic (*The flower is completely wilted*), but *The flower grew* does not/is atelic (*?The flower completely grew*). 
+  -  For example, non-signers usually can't guess that the sign DECIDE (Fig 1, left) means *to decide* or THINK (Fig 1, right) mean *to think*, but they know that the former has a natural semantic endpoint while the latter does not
+- One interesting finding from this study was that non-signers associated gestural boundaries (e.g., the hands' sharp deceleration towards a point in space) with the existence of a natural semantic boundary  
+- The current project instead focuses on how "dictionary" meaning and *argument structure* are conveyed in silent gesture, and how they are perceived 
   - *argument structure* refers to how many nouns a verb takes. If a verb takes only one noun, it's intransitive (*The ball bounced*). If it takes two, it's transitive (*I bounced a ball*) 
-- Previous work on argument structure in silent gesture has demonstrated that non-signers manipulate the shape of their hands to distinguish between transitive and intransitive verbs
-  - These studies do not generalize, as they looked at only a few verbs 
-- Previous work has shown that non-signers are better at guessing the meaning of gestures that other non-signers produce
-  - These studies adopt a strict definition of accuracy, however, such that if the gesture means *to hammer* and a non-signer thinks it means *to pound*, the guess was marked as incorrect.
-- **Q1:** (a) Can participants with no sign language experience detect whether silent gestures represent transitive or intransitive events? (b) Do visual characteristics of the gestures guide non-signer's perception of transitivity?; See `/gesture-transitivity-project`
-- **Q2:** How accurate are non-signing participants at guessing the encyclopedic content of silent gestures? See `/gesture-meaning-project`
 
 ![Figure from https://doi.org/10.1073/pnas.1423080112](https://c-huck.github.io/images/F2large.jpg)
 **Figure 1:** (Left) Verb DECIDE in American Sign Language; (right) Verb THINK-OVER in American Sign Language. Non-signers are not able to guess the meaning of the signs, but they can tell that DECIDE has a natural semantic endpoint, but THINK-OVER does not. Figure obtained from https://doi.org/10.1073/pnas.1423080112.
 
+### Research Questions
+- **Q1:** (a) Can participants with no sign language experience detect whether silent gestures represent transitive or intransitive events? (b) Do visual characteristics of the gestures guide non-signer's perception of transitivity?; See `/gesture-transitivity-project`
+- **Q2:** How accurate are non-signing participants at guessing the encyclopedic content of silent gestures? See `/gesture-meaning-project`
+
+
 ## General methods:
 - Collected 414 silent gestures from 6 non-signers depicting 69 events; Annotated these gestures for visual and manual (phonetic) characteristics
-- Collected 20-30 sentences describing (a) 69 live action events and (b) the intended meaning of the gestures 
+- Collected 20-30 sentences describing (a) 69 live action events and (b) the intended meaning of the gestures
+  - From these sentences, both a gesture's meaning and perceived transitivity can be deduced: E.g., *The person ate an apple* denotes an event of *eating* with two arguments, *the person* and *an apple* (i.e., the event is transitive).
 
 ## General analyses:
--  Q1:
-  -  Sentences were hand-annotated for transitivity. A gesture video was considered 'transitive' if it received >12 transitive labels, otherwise 'intransitive'. 
-  -  Use a linear support vector machine to predict 'transitive' or 'intransitive' class of gestures based on its visual/manual/phonetic features (6-fold l-o-o paradigm)
-- Q2:
-  -  For each event, we computed the mean pair-wise semantic distance (SD) between verbs elicited from action videos (action-verbs), verbs elicited from gesture videos (gesture-verbs), and randomly generate verbs (random-verbs). 
-  -  Semantic distance was defined as the Euclidean distance between two words' 300d word-representation vectors, obtained from GloVe.
-  -  We predicted SD(action-verbs,gesture-verbs) >> SD(action-verbs,random-verbs)
+***Q1:***
+-  Sentences were hand-annotated for transitivity. A gesture video was considered 'transitive' if it received >12 transitive labels, otherwise 'intransitive'. 
+-  Use a linear support vector machine to predict 'transitive' or 'intransitive' class of gestures based on its visual/manual/phonetic features (6-fold l-o-o paradigm)
+
+***Q2:***
+-  For each event, we computed the mean pair-wise semantic distance (SD) between verbs elicited from action videos (action-verbs), verbs elicited from gesture videos (gesture-verbs), and randomly generate verbs (random-verbs). 
+-  Semantic distance was defined as the Euclidean distance between two words' 300d word-representation vectors, obtained from GloVe.
+-  We predicted SD(action-verbs,gesture-verbs) >> SD(action-verbs,random-verbs)
  
  ## Results:
 - Q1: transitivity is transparent: non-signers are 86% accurate at guessing the transitivity of silent gestures
