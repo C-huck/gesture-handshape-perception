@@ -22,10 +22,10 @@ Tools used:
 
 - [ ] Gesture meaning project
   - [ ] Clean up `common_functions.py` : Eliminate redundancies in `comp_all_X` functions 
-- [ ] Transitivity project
-  - [ ] Create README
-  - [ ] Write abstract, post plots
-  - [ ] Upload analysis scripts
+- [x] Transitivity project
+  - [x] Create README
+  - [x] Write abstract, post plots
+  - [x] Upload analysis scripts
 
 ## Files:
  - `generate_summary_data.py`: Outputs summary data for live action videos and gesture videos.  For each gesture or action vignette, computes the proportion of transitive sentences used to describe it, and three measures of semantic similarity: the diversity of verbs used (via Shannon's Diversity Index/H-Index), the Euclidean Distance of each verb's 300d representation vectors, and the mean cosine similarity of the sentences used, etc. 
@@ -50,7 +50,7 @@ Tools used:
 - Previous research has shown that people unfamiliar with a sign language, aka non-signers, are good at resolving grammatical information about signs and gestures
 - But, non-signers are bad at guessing the "dictionary" meaning of signs
 - For example, non-signers can guess whether the events verb signs denote have natural semantic endpoints, irrespective of their ability to guess what the sign means:
-   - FYI: This phenomenon in language is called *telicity*. e.g., *The flower wilted* has an endpoint/is telic (*The flower is completely wilted*), but *The flower grew* does not/is atelic (*?The flower completely grew*). 
+   - FYI: This phenomenon in language is called *telicity*. e.g., *The flower wilted* has an endpoint and is thus telic (*The flower is completely wilted*), but *The flower grew* does not and is thus atelic (*?The flower completely grew*). 
   -  For example, non-signers usually can't guess that the sign DECIDE (Fig 1, left) means *to decide* or THINK (Fig 1, right) mean *to think*, but they know that the former has a natural semantic endpoint while the latter does not
 - One interesting finding from this study was that non-signers associated gestural boundaries (e.g., the hands' sharp deceleration towards a point in space) with the existence of a natural semantic boundary  
 - The current project instead focuses on how "dictionary" meaning and *argument structure* are conveyed in silent gesture, and how they are perceived 
@@ -61,12 +61,14 @@ Tools used:
 
 ### Research Questions
 **Q1:** 
-1. Can participants with no sign language experience detect whether silent gestures represent transitive or intransitive events? 
+1. Can participants with no sign language experience (=non-signers) detect whether silent gestures represent transitive or intransitive events? 
 2. Do visual characteristics of the gestures guide non-signer's perception of transitivity?; See `/gesture-transitivity-project`
 
 **Q2:** 
 1. How accurate are non-signing participants at guessing the "dictionary" meaning of silent gestures? See `/gesture-meaning-project`
 
+**Q3:**
+1. Does the ability to extract grammatical information in gesture, like transitivity, stem from the visual characteristics of the gesture, or from the ability of participants to resolve the meaning of the gesture?
 
 ## General methods:
 - Collected 414 silent gestures from 6 non-signers depicting 69 events; Annotated these gestures for visual and manual (phonetic) characteristics
@@ -96,3 +98,5 @@ Tools used:
 For Q1, see [abstract 1](https://c-huck.github.io/pdfs/CUNY2021.pdf) - [abstract 2](https://c-huck.github.io/pdfs/AMLaP_silent_gesture_transitivity.pdf)
 
 For Q2, see [abstract](https://c-huck.github.io/pdfs/AMLaP_silent_gesture_meaning.pdf)
+
+For Q3, see [preso](https://docs.google.com/presentation/d/1B2JSS3IqzsOQu7r-LTagZhYxQfeDtPOf6lldUaezCyA/edit?usp=sharing)
