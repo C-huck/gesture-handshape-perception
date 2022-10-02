@@ -70,7 +70,7 @@ Tools used:
 **Q3:**
 1. Does the ability to extract grammatical information in gesture, like transitivity, stem from the visual characteristics of the gesture, or from the ability of participants to resolve the meaning of the gesture?
 
-![Original figure](https://c-huck.github.io/images/bottom-up.png) (https://c-huck.github.io/images/top-down.png)
+![Original figure](https://c-huck.github.io/images/top-down-bottom-up.png)
 **Figure 2:** Verb HIT in ASL. (Left) In the bottom-up hypothesis, individual aspects of a sign, e.g., each of the hands and their interaction--encode grammatical information. (right) In the top-down hypothesis, viewers understand the verb to mean 'to hit' from which they interpret the hands as the hitter and hittee.
 
 ## General methods:
